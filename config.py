@@ -2,7 +2,6 @@ BASE_URL = "https://www.theknot.com/marketplace/wedding-reception-venues-atlanta
 CSS_SELECTOR = "[class^='info-container']"
 REQUIRED_KEYS = [
     "name",
-    "price",
     "location",
     "capacity",
     "rating",

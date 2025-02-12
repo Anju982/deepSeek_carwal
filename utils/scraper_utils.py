@@ -5,7 +5,7 @@ from typing import List, Set, Tuple
 from crawl4ai import AsyncWebCrawler, BrowserConfig, CacheMode, CrawlerRunConfig, LLMExtractionStrategy
 
 from models.venue import Venue
-from data_utils import is_complete_venue, is_duplicate_vanue
+from utils.data_utils import is_complete_venue, is_duplicate_vanue
 
 def get_browser_config() -> BrowserConfig:
     return BrowserConfig(
@@ -23,7 +23,7 @@ def get_llm_strategy() -> LLMExtractionStrategy:
         schema=Venue.model_json_schema(),
         extraction_type="schema",
         instruction=(
-            "Extract all venue objects with 'name', 'location', 'price', 'capacity', "
+            "Extract all venue objects with 'name', 'location', 'capacity', "
             "'rating', 'reviews', and a 1 sentence description of the venue from the "
             "following content."
         ),
@@ -50,7 +50,7 @@ async def check_no_results(
         else:
             print(f"No results found message not found: {result.error_message}")
         
-        return False
+    return False
     
 async def fetch_and_process_page(
     crawler: AsyncWebCrawler,
