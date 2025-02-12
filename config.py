@@ -1,10 +1,11 @@
-BASE_URL = "https://www.theknot.com/marketplace/wedding-reception-venues-atlanta-ga"
-CSS_SELECTOR = "[class^='info-container']"
+BASE_URL = "https://riyasewana.com/search/cars/price-500000-1000000"
+CSS_SELECTOR = "[class^='item round']"
 REQUIRED_KEYS = [
     "name",
     "location",
-    "capacity",
-    "rating",
-    "reviews",
-    "description",
+    "price",
+    "mileage",
+    "date",
+    "image_url",
+    "listing_url",
 ]

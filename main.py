@@ -40,7 +40,7 @@ async def crawl_venues():
                 break
             
             if not venues:
-                print("No venues found on page.")
+                print("No vehicle adds found on page.")
                 break
             
             all_venues.extend(venues)
@@ -49,11 +49,11 @@ async def crawl_venues():
             await asyncio.sleep(3)
             
         if all_venues:
-            save_venue_to_csv(all_venues, "complete_venues.csv")
-            print(f"Saved {len(all_venues)} venues to CSV.")
+            save_venue_to_csv(all_venues, "complete_add_details.csv")
+            print(f"Saved {len(all_venues)} vehciles to CSV.")
             
         else:
-            print("No venues found.")
+            print("No adds found.")
             
         llm_strategy.show_usage()
         
