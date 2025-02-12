@@ -23,9 +23,13 @@ def get_llm_strategy() -> LLMExtractionStrategy:
         schema=Venue.model_json_schema(),
         extraction_type="schema",
         instruction=(
-            "Extract all venue objects with 'name', 'location', 'capacity', "
-            "'rating', 'reviews', and a 1 sentence description of the venue from the "
-            "following content."
+            "Extract all venue objects with the following attributes:\n"
+            "- 'name': The name of the venue.\n"
+            "- 'location': The city and state where the venue is located.\n"
+            "- 'capacity': The maximum number of guests the venue can accommodate.\n"
+            "- 'rating': The venue's star rating.\n"
+            "- 'reviews': The number of reviews.\n"
+            "- 'description': A one-sentence summary of the venue."
         ),
         input_format="markdown",
         verbose=True,
