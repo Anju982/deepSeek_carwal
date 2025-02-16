@@ -20,10 +20,10 @@ def get_browser_config() -> BrowserConfig:
     
 def get_llm_strategy() -> LLMExtractionStrategy:
     return LLMExtractionStrategy(
-        provider="openai/gpt-3.5-turbo-instruct",
-        api_token=os.getenv("googel_key"),
+        provider="huggingface/mistralai/Mixtral-8x7B-Instruct-v0.1",
+        api_token=os.getenv("hf_key"),
         schema=Vehicle.model_json_schema(),
-        extraction_type="block",
+        extraction_type="schema",
         instruction=(
             "Extract all car listings with the following attributes:\n"
             "- 'name': The car's make and model.\n"
@@ -34,13 +34,13 @@ def get_llm_strategy() -> LLMExtractionStrategy:
         ),
         input_format="markdown",
         verbose=True,
-        chunk_token_threshold=200,
+        chunk_token_threshold=100,
         overlap_rate=0.1,
         apply_chunking=True,
-        extra_args={
-            "max_tokens": 1000,
-            "temperature": 0.1,
-        }
+        #extra_args={
+            #"max_tokens": 6000,
+            #temperature": 0.1,
+        #}
     )
     
 async def check_no_results(
@@ -89,8 +89,14 @@ async def fetch_and_process_page(
     result = await crawler.arun(
         url=url,
         config=CrawlerRunConfig(
-            word_count_threshold=5000,
-            markdown_generator=DefaultMarkdownGenerator(),
+            #word_count_threshold=1000,
+            markdown_generator=DefaultMarkdownGenerator(
+                options={
+                            "ignore_links": True,
+                            "escape_html": False,
+                            "body_width": 80
+                }
+                ),
             cache_mode=CacheMode.BYPASS,
             extraction_strategy=llm_strategy,
             session_id=session_id,
@@ -127,8 +133,8 @@ async def fetch_and_process_page(
         complete_details.append(venue)
         
     if not complete_details:
-        print(f"No complete venues found on page {page_number}")
+        print(f"No data found on page {page_number}")
         return [], False
     
-    print(f"Extracted {len(complete_details)} venues from page {page_number}")
+    print(f"Extracted {len(complete_details)} adds from page {page_number}")
     return complete_details, False

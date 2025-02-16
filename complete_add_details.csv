@@ -1,45 +1,596 @@
 name,location,price,mileage,date,image_url,listing_url
-Toyota Corolla,Colombo,650000,50000,2022-01-01,https://riyasewana.com/images/cars/toyota-corolla.jpg,https://riyasewana.com/listings/car/12345
-Toyota Corolla,Colombo,650000,50000,2022-01-01,https://riyasewana.com/images/cars/toyota-corolla.jpg,https://riyasewana.com/listings/toyota-corolla-colombo-650000
-Toyota Allion 260 2010 Car,Colombo,Negotiable,138000,2025-02-11,https://riyasewana.com/thumb/thumbtoyota-allion-260-229115310942.jpg,https://riyasewana.com/search/cars/<https:/riyasewana.com/buy/toyota-allion-260-sale-colombo-9404269>
-Toyota Corolla,Colombo,650000,120000,2022-08-15,https://riyasewana.com/media/images/cars/2015-toyota-corolla-1.jpg,https://riyasewana.com/cars/used-2015-toyota-corolla-colombo-650000-120000-km-2022-08-15
-Toyota Corolla,Colombo,650000,120000,2022-05-01,https://riyasewana.com/cars/images/1.jpg,https://riyasewana.com/cars/listing/1
-Suzuki Spacia Custom 2018 Car,Colombo,8300000,60627,2025-02-02,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-27189224891.jpg,https://riyasewana.com/buy/suzuki-spacia-custom-sale-colombo-9370085
-Toyota Corolla,Colombo,5500000,120000,2022-09-15,https://riyasewana.com/media/images/cars/toyota-corolla-1.jpg,https://riyasewana.com/cars/toyota-corolla-123456
-Audi A4 2011 Car,Colombo,10800000,177500,2025-02-11,https://riyasewana.com/thumb/thumbaudi-a4-1916323410524.jpg,https://riyasewana.com/search/cars/<https:/riyasewana.com/buy/audi-a4-sale-colombo-9407139>
-Toyota Corolla,Toronto,75000,50000,2022-08-01,https://example.com/image1.jpg,https://example.com/listing1
-Toyota Corolla,Toronto,7500,120000,2022-01-01,https://example.com/image1.jpg,https://example.com/listing1
-Toyota Corolla,Toronto,80000,12000,2022-01-01,https://example.com/image.jpg,https://example.com/listing
-Toyota Prius 20 2007 Car,Negombo,6250000,134000,2025-02-08,https://riywana.com/thumb/thumbtoyota-prius-202007-66361612651.jpg,https://riyasewana.com/buy/toyota-prius-20-sale-negombo-938481
-Hyundai Accent,Ottawa,10000,12000,2022-08-01,https://riyasew.com/images/cars/hyundai-accent.jpg,https://riyasew.com/listings/hyundai-accent-ottawa-10000
-Audi A4 2011 Car,Colombo,10800000,177500,2025-02-11,https://riyasewana.com//thumbaudi-a-191632341524.jpg,https://riyasewana.com/buy/audi-a4-sale-colombo-9407139
-Toyota Corolla,Riyadh,750000,50000,2022-01-01,https://riyadh.cars.com/toyota/corolla/12345,https://riyadh.cars.com/toyota/corolla/1234
-Toyota Allion 260 2010 Car,Colombo,Negotiable,138000,2025-02-1,https://riyasewana.com/thumb/thumbtoyota-allion-260-229115310942.jpg,https://riyasewana.com/search/cars/<https:/riyasewana.com/buy/yota-allion-260-sale-colombo-9404269>
-Toyota Corolla,New York,8000,20000,2022-01-01,https://example.com/image.jpg,https://example.com/listing
-Audi A 2011 Car,Colombo,10800000,177500,2025-02-11,https://riyasewana.com/thumb/thumbaudi-a4-1916323410524.jpg,https://riyasewana.com/search/cars/<https://riyasewana.com/buy/audi-a4-sale-colombo-940739>
-Toyota Corolla,New York,800000,50000,2022-01-01,https://example.com/image1.jpg,https://example.com/listing1
-Suzuki Spacia Custom 2018 Car,Colombo,8300000,60627,2025-02-02,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-2783922581.jpg,https://riyasewana.com/search/cars/<https:/riyasewana.com/buy/suzuki-spacia-custom-sale-colombo-937048>
-Toyota Corolla,New York,800000,12000,2022-01-01,https://example.com/image1.jpg,https://example.com/listing1
-Suzuki Cio X 2018 Car,Kurunegala,6150000,28500,2025-02-10,https://riyasewana.com/thumb/thumbsuzuki-celerio-x-1014350517523jpg,https://riyasewana.com/search/cars/<https:/riyasewana.com/buy/suzuki-celerio-x-sale-kurunegala-9402259>
-Toyota Corolla,Toronto,85000,50000,2022-01-01,https://example.com/image.jpg,https://example.com/listing
-Toyota Prius 20 007 Car,Negombo,6250000,134000,2025-02-08,https://riyasewana.com/thumb/thumbtoyota-prius-20-200-66361612651.jpg,https://riyasewana.com/buy/toyota-prius-20-sale-negombo-9384814
-Toyota Corolla,Karachi,1150000,120000,2022-03-12,https://riyasew.com/images/cars/toyota-corolla.jpg,https://riyasew.com/listings/toyota-corolla-2022-03-12
-Audi A4 2011 Car,Colombo,10800000,177500,2025-02-11,https://riyasewana.com/thumb/thumbaud-a4-1916323410524.jpg,https://riyasewana.com/search/cars/<https:/riyasewana.com/buy/audi-a4-sale-colombo-9407139>
-Toyota Corolla,Toronto,85000,45000,2022-05-01,https://example.com/image.jpg,https://example.com/listing
-Toyota Corolla,New York,80000,50000,2022-01-01,https://riyasew.com/image.jpg,https://riyasew.com/listing
-Toyota Corolla,Toronto,75000,25000,2022-08-12,https://example.com/image1.jpg,https://example.com/listing1
-Audi A4 2011 Car,Colombo,10800000,177500,2025-02-11,https://riyasewana.com/thumb/thumbi-a4-191632340524.jpg,https://riyasewana.com/search/cars/<https:/riyasewana.com/buy/audi-a4-sale-colombo-9407139>
-Toyota Corolla,Colombo,750000,120000,2022-01-01,https://riyasew.com/image.jpg,https://riyasew.com/listing/1
-Toyota Premio 2018 Car,Kurunegala,19200000,47000,2025-02-12,https://riyasewana.com/thumbtoyota-premio-2018-1119573712571.jpg,https://riyasewana.com/buy/toyota-premio-sale-kurunegala-941249
-Toyota Corolla,Colombo,650000,50000,2022-02-15,https://riyasew.com/images/cars/toyota-corolla.jpg,https://riyasew.com/listings/car-12345
-Suzuki Spacia Custom 2018 Car,Colombo,8300000,60627,2025-02-02,https://riyasewana.com/thumb/thumbsuzuki-acia-custom-27183922581.jpg,https://riyasewana.com/search/cars/<https://riyasewana.com/buy/suzuki-spacia-custom-sale-colombo-9370485>
-Toyota Corolla,Dubai,850000,12000,2022-03-01,https://riyasewana.com/images/cars/toyota-corolla.jpg,https://riyasewana.com/listings/toyota-corolla-dubai-850000
-Toyota Corolla,Toronto,750000,12000,2022-05-01,https://example.com/image1.jpg,https://example.com/listing1
-Toyota Corolla,Bangkok,750000,120000,2022-01-01,https://example.com/image1.jpg,https://example.com/listing1
-Audi A4 2011 Car,Colombo,10800000,177500,2025-02-11,https://riyasewana.com/thumb/thumbaudi-a4-1916323410524.jpg,https://riyasewana.com/search/cars/<https:/riyasewana.com/buy/audi-a4-sale-colombo-9407139>
-Toyota Corolla,Toronto,85000,35000,2022-01-01,https://riyasew.com/images/toyota-corolla.jpg,https://riyasew.com/listings/toyota-corolla-2022-01-01
-Toyota Corolla,Toronto,75000,120000,2022-01-01,https://example.com/image.jpg,https://example.com/listing
-Suzuki Spacia Custom 2018 Car,Colombo,8300000,627,2025-02-02,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-27183922581.jpg,https://riyasewana.com/search/cars/<https:/riyasewana.com/buy/suzuki-spacia-custom-sale-colombo-9370485>
-Toyota Corolla,Bangkok,800000,120000,2022-01-01,https://example.com/image1.jpg,https://example.com/listing1
-Toyota Corolla,Dubai,800000,12000,2022-01-01,https://riyadh.cars.com/image.jpg,https://riyadh.cars.com/listing
-Toyota Corolla,Colombo,650000,12000,2022-01-12,https://riyasearch.com/images/cars/123456.jpg,https://riyasearch.com/listings/123456
+Toyota GLI 141 Corolla 2012 Car,Colombo,128000,128000,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-gli-141-11453584911.jpg,https://riyasewana.com/thumb/thumbtoyota-gli-141-11453584911.jpg
+Toyota Axio 141 2010 Car,Malabe,8290000,148600,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-axio-141-2010-15263612891.jpg,https://riyasewana.com/thumb/thumbtoyota-axio-141-2010-15263612891.jpg
+Honda Grace 2014 Car,Kotte,9950000,96300,2025-02-14,https://riyasewana.com/thumb/thumbhonda-grace-132131141.jpg,https://riyasewana.com/thumb/thumbhonda-grace-132131141.jpg
+Toyota Axio G Grade 2008 Car,Panadura,,137000,2025-02-13,https://riyasewana.com/thumb/thumbtoyota-axio-g-2008-1815195612411.jpg,https://riyasewana.com/thumb/thumbtoyota-axio-g-2008-1815195612411.jpg
+Mazda Familia 1994 Car,Gampaha,1000000,12345,2025-02-16,"https://riyasewana.com/thumb/thumbmazda-
+familia-1994-1612371812871.jpg",<https://riyasewana.com/vehicle/mazda-familia-1994-gampaha-12345-1000000>
+Honda Civic 1985 Car,Colombo,825000,285000,2025-02-16,"https://riyasewana.com/thumb/thumbhonda-honda-
+civic-161224084181.jpg",<https://riyasewana.com/vehicle/honda-civic-1985-colombo-285000-825000>
+Mitsubishi Mirage 1986 Car,Kandy,795000,1000,2025-02-16,"https://riyasewana.com/thumb/thumbmitsubishi-
+mirage-161157384941.jpg",<https://riyasewana.com/vehicle/mitsubishi-mirage-1986-kandy-1000-795000>
+Isuzu Gemini 1987 Car,Eheliyagoda,975000,32000,2025-02-16,"https://riyasewana.com/thumb/thumbisuzu-
+gemini-161146574811.jpg",<https://riyasewana.com/vehicle/isuzu-gemini-1987-eheliyagoda-32000-975000>
+Toyota Carina 1979 Car,Kandy,850000,1111,2025-02-16,"https://riyasewana.com/thumb/thumbtoyota-
+karina-161145574811.jpg",<https://riyasewana.com/vehicle/toyota-carina-1979-kandy-1111-850000>
+Toyota CARINA AT150 1984,Kandy,890000,1111,2025-02-16,"https://riyasewana.com/thumb/thumbtoyota-carina-
+at150-161542574471.jpg",https://riyasewana.com/vehicle/toyota-carina-at150-1984-kandy-890000-1111-km-2025-02-16
+Mitsubishi Lancer Box 1985,Homagama,975000,10,2025-02-16,"https://riyasewana.com/thumb/thumbmitsubishi-
+lancer-box-1985-1615233112181.jpg",https://riyasewana.com/vehicle/mitsubishi-lancer-box-1985-homagama-975000-10-km-2025-02-16
+Nissan AD Wagon 1987,Kiribathgoda,650000,75355,2025-02-16,"https://riyasewana.com/thumb/thumbnissan-ad-
+wagon-1987-1615112112961.jpg",https://riyasewana.com/vehicle/nissan-ad-wagon-1987-kiribathgoda-650000-75355-km-2025-02-16
+Nissan Hb12 1988,Kadawatha,725000,140000,2025-02-16,"https://riyasewana.com/thumb/thumbnissan-
+hb12-1988-1615021712971.jpg",https://riyasewana.com/vehicle/nissan-hb12-1988-kadawatha-725000-140000-km-2025-02-16
+Nissan HB11 1984,2025-02-16,,,2025-02-16,"https://riyasewana.com/thumb/thumbnissan-
+hb-11-1984-1614485812831.jpg",https://riyasewana.com/vehicle/nissan-hb11-1984-2025-02-16
+Ford Laser 1981 Car,Kaduwela,650000,154000,2025-02-16,https://riyasewana.com/thumb/thumbford-leser-16143752151.jpg,https://riyasewana.com/vehicle/ford-laser-1981-car-kaduwela-1614375215
+Nissan B11 1983 Car,Nittambuwa,850000,163000,2025-02-16,https://riyasewana.com/thumb/thumbnissan-b11-1983-1614333412572.jpg,https://riyasewana.com/vehicle/nissan-b11-1983-car-nittambuwa-1614333412
+Toyota Corolla KE50 1976 Car,Kurunegala,535000,89000,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-corolla-ke50-161340234861.jpg,https://riyasewana.com/vehicle/toyota-corolla-ke50-1976-car-kurunegala-1613402348
+Toyota Carina 1992 Car,Gampaha,975000,,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-carina-1613205922681.jpg,https://riyasewana.com/vehicle/toyota-carina-1992-car-gampaha-1613205922
+Mitsubishi Lancer Flat Light 1978 Car,Divulapitiya,,1000,2025-02-16,https://riyasewana.com/thumb/thumbmitsubishi-lanser-flat-1978-1612574612291.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-flat-light-1978-car-divulapitiya-1612574612
+Mitsubishi Lancer Flat Light 1978 Car,Divulapitiya,,1000,2025-02-16,https://riyasewana.com/thumb/thumbmitsubishi-lanser-flat-1978-1612574612291.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-flat-light-1978-car-divulapitiya-1612574612
+Toyota Tercel 1987 Car,Gampaha,690000,95000,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-tersel-1987-1610291612741.jpg,https://riyasewana.com/thumb/thumbtoyota-tersel-1987-1610291612741.jpg
+Hyundai Excel 1993 Car,Battaramulla,875000,257800,2025-02-16,https://riyasewana.com/thumb/thumbhyundai-excel-1993-1610235412771.jpg,https://riyasewana.com/thumb/thumbhyundai-excel-1993-1610235412771.jpg
+Warakapola,Honda Civic 1985 Car,700000,125000,2025-02-16,https://riyasewana.com/thumb/thumbhonda-civic-16956204821.jpg,https://riyasewana.com/thumb/thumbhonda-civic-16956204821.jpg
+Mitsubishi Lancer BOX 1983,Badulla,650000,285000,2025-02-16,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-16931224081.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-1983-badulla-1693122408
+Nissan B11 1983,Malabe,995000,288900,2025-02-16,https://riyasewana.com/thumb/thumbnissan-b-11-1690921481.jpg,https://riyasewana.com/vehicle/nissan-b11-1983-malabe-1690921481
+Toyota CORONA AT 170 1995,Moneragala,950000,85312,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-corona-at-16846374121.jpg,https://riyasewana.com/vehicle/toyota-corona-at-170-1995-moneragala-1684637412
+Nissan SB11 1986,Kadawatha,970000,35232,2025-02-16,https://riyasewana.com/thumb/thumbnissan-sb-11-1986-168401012191.jpg,https://riyasewana.com/vehicle/nissan-sb11-1986-kadawatha-1684010121
+Mitsubishi L Box 1981 Car,Matale,900000,174852,2025-02-16,https://riyasewana.com/thumb/thumbmitsubishi-l-box-161121134041.jpg,https://riyasewana.com/vehicle/mitsubishi-l-box-1981-car-matale-rs-900000-2025-02-16-174852-km-161121134041
+Toyota Dx Wagon Ke72 1986 Car,Mirigama,925000,11111,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-dx-wagon-1986-161041012261.jpg,https://riyasewana.com/vehicle/toyota-dx-wagon-ke72-1986-car-mirigama-rs-925000-2025-02-16-11111-km-161041012261
+Mitsubishi Lancer 1986 Car,Kurunegala,500000,257808,2025-02-16,https://riyasewana.com/thumb/thumbmitsubishi-lanzer-feori-161038414031.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-1986-car-kurunegala-rs-500000-2025-02-16-257808-km-161038414031
+Nissan B11 Longoing Buffer 1985 Car,Gampaha,885000,174852,2025-02-16,https://riyasewana.com/thumb/thumbnissan-b-11-1985-1610350112652.jpg,https://riyasewana.com/vehicle/nissan-b11-longoing-buffer-1985-car-gampaha-rs-885000-2025-02-16-174852-km-1610350112652
+Mitsubishi Lancer Wagon 1983 Car,Gampaha,,,,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-1983-1610332212661.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-wagon-1983-car-gampaha-rs-null-null-null-null-km-1610332212661
+Mitsubishi Lancer Wagon 1983 Car,Gampaha,,,,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-1983-1610332212661.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-wagon-1983-car-gampaha-rs-null-null-null-null-km-1610332212661
+Toyota Dx Wagon 1984,Dankotuwa,750000,123456,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-dx-wagon-16955444291.jpg,<https://riyasewana.com/used-cars/toyota-dx-wagon-1984-dankotuwa-rs-750000-123456-km-2025-02-16>
+Toyota Carina AT150 1985,Kurunegala,610000,777,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-carina-at150-16954514271.jpg,<https://riyasewana.com/used-cars/toyota-carina-at150-1985-kurunegala-rs-610000-777-km-2025-02-16>
+Nissan March K10 1984,Matugama,945000,359002,2025-02-16,https://riyasewana.com/thumb/thumbnissan-march-k10-1984-16950581273.jpg,<https://riyasewana.com/used-cars/nissan-march-k10-1984-matugama-rs-945000-359002-km-2025-02-16>
+Mitsubishi Lancer Wagon 1978,Badulla,,,,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-16945304671.jpg,<https://riyasewana.com/used-cars/mitsubishi-lancer-wagon-1978-badulla>
+Mitsubishi Lancer Wagon 1978,Badulla,,,,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-16945304671.jpg,<https://riyasewana.com/used-cars/mitsubishi-lancer-wagon-1978-badulla>
+Toyota Dx Wagon Ke72 1986 Car,Homagama,830000,10,2025-02-16,"https://riyasewana.com/thumb/thumbtoyota-dx-
+wagon-168201612931.jpg",https://riyasewana.com/toyota-dx-wagon-ke72-1986-car-homagama-rs-830000-10-km-2025-02-16
+Toyota Dx Wagon 1986 Car,Kiribathgoda,795000,100000,2025-02-16,"https://riyasewana.com/thumb/thumbtoyota-dx-
+wagon-168173922101.jpg",https://riyasewana.com/toyota-dx-wagon-1986-car-kiribathgoda-rs-795000-100000-km-2025-02-16
+Mitsubishi Lancer Fiore 1986 Car,Kaduwela,775000,175000,2025-02-16,https://riyasewana.com/thumb/thumbmitsubishi-lancer-fiore-1674553681.jpg,https://riyasewana.com/mitsubishi-lancer-fiore-1986-car-kaduwela-rs-775000-175000-km-2025-02-16
+Toyota Ke50 1977 Car,Nuwara-Eliya,550000,,2025-02-16,"https://riyasewana.com/thumb/thumbtoyota-
+ke50-1977-167371512851.jpg",https://riyasewana.com/toyota-ke50-1977-car-nuwara-eliya-rs-550000-2025-02-16
+Mitsubishi Lancer Box 1982 Car,Kuliyapitiya,695000,111111,2025-02-16,"https://riyasewana.com/thumb/thumbmitsubishi-
+lancer-box-167312312861.jpg",https://riyasewana.com/mitsubishi-lancer-box-1982-car-kuliyapitiya-rs-695000-111111-km-2025-02-16
+Mazda Demio 2001 Car,Gampaha,975000,152000,2025-02-16,"https://riyasewana.com/thumb/thumbmazda-mazda-
+demio-16702314701.jpg",https://riyasewana.com/mazda-demio-2001-car-gampaha-rs-975000-152000-km-2025-02-16
+Nissan B11,Pannala,555000,,2025-02-15,https://riyasewana.com/thumb/thumbnissan-b11-152057274511.jpg,
+Toyota Dx Wagon Ke74,Kurunegala,900000,325141,2025-02-15,https://yasewana.com/thumb/thumbtoyota-dx-wagon-1983-1520521812601.jpg,
+Nissan MARCH,Matara,825000,85000,2025-02-15,https://riyasewana.com/thumb/thumbnissan-march-1986-1520334712681.jpg,
+Nissan B11 Longoing Buffer,Gampaha,885000,257800,2025-02-15,https://riyasewana.com/thumb/thumbnissan-b-11-1985-1520090712721.jpg,
+Toyota Lancer,Kandy,590000,145563,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-flat-light-1979-1519414712061.jpg,
+Toyota Axio G Grade 2008,Panadura,137000,20250,2025-02-13,https://riyasewana.com/thumb/thumbtoyota-axio-g-2008-1815195612411.jpg,https://riyasewana.com/cars/price-500000-1000000/page2/toyota-axio-g-grade-2008-1815195612411.html
+Toyota Premio G Superior 2018,Dehiwala-Mount-Lavinia,18250000,27550,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-premio-g-2018-1422074012411.jpg,https://riyasewana.com/cars/price-500000-1000000/page2/toyota-premio-g-superior-2018-1422074012411.html
+Suzuki Spacia Custom 2018,Colombo,8300000,6062,2025-02-02,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-27183922581.jpg,https://riyasewana.com/cars/price-500000-1000000/page2/suzuki-spacia-custom-27183922581.html
+Daihatsu Mira 2016,Piliyandala,Negotiable,81100,2025-02-14,https://riyasewana.com/thumb/thumbdaihatsu-mira-14121215241.jpg,https://riyasewana.com/cars/price-cars/page2/daihatsu-mira-14121215241.html
+Toyota Corolla 110 1996 Car,Gampaha,795000,168000,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-toyota-corolla-16643014151.jpg,https://riyasewana.com/vehicle/toyota-toyota-corolla-16643014151.html
+Nissan March K10 1987 Car,Kegalle,790000,100000,2025-02-16,https://riyasewana.com/thumb/thumbnissan-march-k10-161081112191.jpg,https://riyasewana.com/vehicle/nissan-march-k10-161081112191.html
+Toyota Corolla KE20 0 Car,Gampaha,750000,1234,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-corolla-ke20-1522491122521.jpg,https://riyasewana.com/vehicle/toyota-corolla-ke20-1522491122521.html
+Toyota Corolla Ee96 Dx Wagon 1991 Car,Elpitiya,985000,20000,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-ee96-dx-152236384571.jpg,https://riyasewana.com/vehicle/toyota-ee96-dx-152236384571.html
+Mitsubishi Lancer C12 1986 Car,Colombo,690000,189567,2025-02-15,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1986-1521421012731.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1986-1521421012731.jpg
+Nissan B211 1980 Car,Gampola,875000,200000,2025-02-15,https://riyasewana.com/thumb/thumbnissan-b211-1521393622161.jpg,https://riyasewana.com/thumb/thumbnissan-b211-1521393622161.jpg
+Austin A55 0 Car,Colombo,650000,150000,2025-02-15,https://riyasewana.com/thumb/thumbaustin-a55-1521364522341.jpg,https://riyasewana.com/thumb/thumbaustin-a55-1521364522341.jpg
+Toyota AE81 1990 Car,Colombo,870000,189567,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-ae-81-1990-1521363212161.jpg,https://riyasewana.com/thumb/thumbtoyota-ae-81-1990-1521363212161.jpg
+Toyota Flat Light 1979 Car,Kandy,650000,264656,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-flat-light-1979-1521172712291.jpg,https://riyasewana.com/thumb/thumbtoyota-flat-light-1979-1521172712291.jpg
+Nissan Sunny B11 1984,Kesbewa,975000,200000,2025-02-15,https://riyasewana.com/thumb/thumbnissan-sunny-b11-1519300351.jpg,https://riyasewana.com/thumb/thumbnissan-sunny-b11-1519300351.jpg
+Subaru J10 1988,Kandy,690000,2,2025-02-15,https://riyasewana.com/thumb/thumbsubaru-j10-1988-1519290612801.jpg,https://riyasewana.com/thumb/thumbsubaru-j10-1988-1519290612801.jpg
+Mitsubishi Lancer Wagon 1984,Kotte,220000,12100,2025-02-15,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-1984-1518530512471.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-1984-1518530512471.jpg
+Isuzu Gemini 1991,Pannala,860000,,2025-02-15,https://riyasewana.com/thumb/thumbisuzu-gemini-1991-1518421812411.jpg,https://riyasewana.com/thumb/thumbisuzu-gemini-1991-1518421812411.jpg
+Toyota Corolla AE80 1984,Kurunegala,655000,12345,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-corrolla-ae80-1518032122231.jpg,https://riyasewana.com/thumb/thumbtoyota-corrolla-ae80-1518032122231.jpg
+Mitsubishi Lancer 1979,Kandy,550000,180000,2025-02-15,https://riyasewana.com/thumb/thumbmitsubishi-nlancer-1979-1513052412931.jpg,https://riyasewana.com/cars/mitsubishi-lancer-1979-kandy-550000-180000-km-2025-02-15
+Nissan Sunny B211 1988,Colombo,920000,200000,2025-02-15,https://riyasewana.com/thumb/thumbnissan-sunny-b211-1988-1512171912521.jpg,https://riyasewana.com/cars/nissan-sunny-b211-1988-colombo-920000-200000-km-2025-02-15
+Nissan Sunny B310 1982,Kadawatha,785000,182000,2025-02-15,https://riyasewana.com/thumb/thumbnissan-sunny-b310-1512005878.jpg,https://riyasewana.com/cars/nissan-sunny-b310-1982-kadawatha-785000-182000-km-2025-02-15
+Ae86,Kandy,1200000,120000,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-ae86-1511034922321.jpg,https://riyasewana.com/cars/toyota-ae86-kandy-1200000-120000-km-2025-02-15
+Mitsubishi Lancer Wagon 1985,Kandy,790000,,2025-02-15,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-1511034922321.jpg,https://riyasewana.com/cars/mitsubishi-lancer-wagon-1985-kandy-790000-km-2025-02-15
+Honda Civic 1985,Kottawa,970000,200000,2025-02-15,https://riyasewana.com/thumb/thumbhonda-civic-1517215522631.jpg,https://riyasewana.com/used-cars/honda-civic-1985-kottawa-rs-970-000-200000-km-2025-02-15
+Mitsubishi Lancer Flat Light 1978,Kelaniya,575000,,2025-02-15,https://riyasewana.com/thumb/thumbmitsubishi-lancer-flat-151707454091.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-flat-light-1978-kelaniya-rs-575-000-2025-02-15
+Nissan B11 1983,Bandaragama,975000,250000,2025-02-15,https://riyasewana.com/thumb/thumbnissan-b-11-1983-1515014012811.jpg,https://riyasewana.com/used-cars/nissan-b11-1983-bandaragama-rs-975-000-250000-km-2025-02-15
+Toyota AE80 1985,Malabe,1000000,284000,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-ae80-15145018491.jpg,https://riyasewana.com/used-cars/toyota-ae80-1985-malabe-rs-1-000-000-284000-km-2025-02-15
+Isuzu Gemini JT600 1989,Kegalle,850000,300000,2025-02-15,https://riyasewana.com/thumb/thumbisuzu-jemini-jt-1989-1513403512972.jpg,https://riyasewana.com/used-cars/isuzu-gemini-jt600-1989-kegalle-rs-850-000-300000-km-2025-02-15
+Mitsubishi Lancer Box 1996 Car,Kandy,520000,41500,2025-02-15,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1510493922221.jpg,<url>https://riyasewana.com/used-cars/mitsubishi-lancer-box-1996-kandy-1510493922</url>
+Toyota Tercel 1987 Car,Gampaha,985000,257800,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-tersel-1987-1510154012821.jpg,<url>https://riyasewana.com/used-cars/toyota-tercel-1987-gampaha-1510154012</url>
+Mitsubishi Lancer Wagon 1979 Car,Matale,500000,100000,2025-02-15,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-1979-1510063612181.jpg,<url>https://riyasewana.com/used-cars/mitsubishi-lancer-wagon-1979-matale-1510063612</url>
+Nissan Pulsar 1982 Car,Malabe,750000,,2025-02-15,https://riyasewana.com/thumb/thumbnissan-pulsar-15950014781.jpg,<url>https://riyasewana.com/used-cars/nissan-pulsar-1982-malabe-cars-1595001478</url>
+Isuzu JT600 Gemini 1989 Car,Gampaha,1000000,,2025-02-15,https://riyasewana.com/thumb/thumbisuzu-jt-600-1989-159451012351.jpg,<url>https://riyasewana.com/used-cars/isuzu-jt600-gemini-1989-gampaha-1594510123</url>
+Toyota Ke20 1975,Gampaha,500000,123456,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-ke20-1975-159403712311.jpg,https://riyasewana.com/thumb/thumbtoyota-ke20-1975-159403712311.jpg
+Mitsubishi Lancer Box 1980,Matale,850000,111111,2025-02-15,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1593309531.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1593309531.jpg
+Toyota Corona 150 1984,Kadawatha,850000,202500,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-korona-150-15929104502.jpg,https://riyasewana.com/thumb/thumbtoyota-korona-150-15929104502.jpg
+Toyota Ee80 1985,Kurunegala,650000,300000,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-ee80-1985-159262012821.jpg,https://riyasewana.com/thumb/thumbtoyota-ee80-1985-159262012821.jpg
+Toyota Crown 1983,Negombo,975000,450000,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-crown-15844574021.jpg,https://riyasewana.com/thumb/thumbtoyota-crown-15844574021.jpg
+Mitsubishi Lancer Box 5fwd 1984,Horana,950000,100000,2025-02-15,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1984-158291312511.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1984-158291312511.jpg
+Toyota Axio G Grade 2008 Car,Panadura,137000,150000,2025-02-13,https://riyasewana.com/thumb/thumbtoyota-axio-g-2008-1815195612411.jpg,https://riyasewana.com/thumb/thumbtoyota-axio-g-2008-1815195612411.jpg
+Suzuki Alto 2006 Car,Eheliyagoda,2250000,150000,2025-02-16,https://riyasewana.com/thumb/thumbsuzuki-alto-2006-1614220812951.jpg,https://riyasewana.com/thumb/thumbsuzuki-alto-2006-1614220812951.jpg
+Suzuki Spacia Custom 2018 Car,Colombo,8300000,60627,2025-02-02,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-27183922581.jpg,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-27183922581.jpg
+Suzuki Celerio X 2018 Car,Kurunegala,6100000,29000,2025-02-16,https://riyasewana.com/thumb/thumbsuzuki-celerio-x-2018-169583613001.jpg,https://riyasewana.com/thumb/thumbsuzuki-celerio-x-2018-169583613001.jpg
+Mazda Familia Bf 323 1986 Car,Matara,975000,,2025-02-14,https://riyasewana.com/thumb/thumbmazda-familia-bf-141854146191.jpg,
+Toyota Carina AT150 1985 Car,Matara,995000,,2025-02-14,https://riyasewana.com/thumb/thumbtoyota-carina-at150-141812304651.jpg,
+Nissan Datsun 1982 Car,Negombo,720000,332700,2025-02-24,https://riyasewana.com/thumb/thumbnissan-datsan-14173330511.jpg,
+Nissan B310 1978 Car,Kandy,695000,,2025-02-14,https://riyasewana.com/thumb/thumbnissan-b310-1978-1417082412621.jpg,
+Toyota Corolla Dx Wagon Ke72 1983 Car,Kandy,775000,,1983,https://riyasewana.com/thumb/thumbtoyota-toyota-corolla-1983-1415254412231.jpg,
+Toyota Corolla Dx Wagon Ke72 1983 Car,Kandy,775000,,1983,https://riyasewana.com/thumb/thumbtoyota-toyota-corolla-1983-1415254412231.jpg,
+Nissan Bluebird 1983,Gampaha,850000,280000,2025-02-14,https://riyasewana.com/thumb/thumbnissan-bluebird-14124438511.jpg,https://riyasewana.com/thumb/thumbnissan-bluebird-14124438511.jpg
+Nissan FB13 Doctor Sunny 1993,Gampaha,585000,145000,2025-02-14,https://riyasewana.com/thumb/thumbnissan-fb13-doctor-1993-1412023612741.jpg,https://riyasewana.com/thumb/thumbnissan-fb13-doctor-1993-1412023612741.jpg
+Mitsubishi LANCER 1980,Hanwella,690000,1,2025-02-14,https://riyasewana.com/thumb/thumbmitsubishi-lancer-141153374261.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-141153374261.jpg
+Mitsubishi Lancer 1983,Gampaha,780000,175408,2025-02-14,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1411431612831.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1411431612831.jpg
+Nissan B11 1980,Gampaha,885000,257800,2025-02-14,https://riyasewana.com/thumb/thumbnissan-b-11-1980-1411160512111.jpg,https://riyasewana.com/thumb/thumbnissan-b-11-1980-1411160512111.jpg
+Suzuki Maruti 800 1994,Maharagama,925000,95000,2025-02-14,https://riyasewana.com/thumb/thumbsuzuki-maruti-800-1994-1422035812141.jpg,https://riyasewana.com/thumb/thumbsuzuki-maruti-800-1994-1422035812141.jpg
+Nissan VB11 1986,Badulla,515000,,2025-02-14,https://riyasewana.com/thumb/thumbnissan-vb-11-142127474721.jpg,https://riyasewana.com/thumb/thumbnissan-vb-11-142127474721.jpg
+Mitsubishi Colt Glx 1980,Minuwangoda,915000,,2025-02-14,https://riyasewana.com/thumb/thumbmitsubishi-colt-glx-142059276911.jpg,https://riyasewana.com/thumb/thumbmitsubishi-colt-glx-142059276911.jpg
+Mitsubishi Lancer Box 1980,Matara,890000,,2025-02-14,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-141908564541.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-141908564541.jpg
+Mitsubishi Lancer Box 1980,Matara,890000,,2025-02-14,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-141903084091.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-141903084091.jpg
+Mitsubishi Lancer Box 1982,Homagama,975000,300000,2025-02-14,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1415003681.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-box-1982-homagama-182398.html
+Mitsubishi Lancer Box 1981,Homagama,995000,182398,2025-02-14,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-14145637351.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-box-1981-homagama-182398.html
+Toyota Ke55 1979,Pannipitiya,550000,7099,2025-02-14,https://riyasewana.com/thumb/thumbtoyota-ke55-14144206901.jpg,https://riyasewana.com/used-cars/toyota-ke55-1979-pannipitiya-182398.html
+Micro Mx7 2014,Nittambuwa,885000,1111,2025-02-14,https://riyasewana.com/thumb/thumbmicro-mx7-141344504381.jpg,https://riyasewana.com/used-cars/micro-mx7-2014-nittambuwa-182398.html
+Nissan B310 1981,Divulapitiya,600000,20250214,Divulapitiya,https://riyasewana.com/thumb/thumbnissan-b310-141303395001.jpg,https://riyasewana.com/used-cars/nissan-b310-1981-divulapitiya-182398.html
+Nissan 310 1981,Divulapitiya,600000,20250214,Divulapitiya,https://riyasewana.com/thumb/thumbnissan-310-141303395001.jpg,https://riyasewana.com/used-cars/nissan-310-1981-divulapitiya-182398.html
+Toyota Corona AT150 1986 Car,Moneragala,710000,12594,2025-02-14,"https://riyasewana.com/thumb/thumbtoyota-corona-
+at150-1317382422681.jpg","https://riyasewana.com/thumb/thumbtoyota-corona-
+at150-1317382422681.jpg"
+Daihatsu Charade 1985 Car,Negombo,750000,212000,2025-02-14,"https://riyasewana.com/thumb/thumbdaihatsu-
+charade-141045204601.jpg","https://riyasewana.com/thumb/thumbdaihatsu-
+charade-141045204601.jpg"
+Daihatsu Charade 1987 Car,Polgahawela,690000,150000,2025-02-14,"https://riyasewana.com/thumb/thumbdaihatsu-
+charade-1987-1410230612711.jpg","https://riyasewana.com/thumb/thumbdaihatsu-
+charade-1987-1410230612711.jpg"
+Daihatsu Charade 1988 Car,Gampaha,500000,40,2025-02-14,"https://riyasewana.com/thumb/thumbdaihatsu-
+charade-141000104071.jpg","https://riyasewana.com/thumb/thumbdaihatsu-
+charade-141000104071.jpg"
+Mitsubishi Lancer Wagon 1980 Car,Matale,675000,1,2025-02-14,"https://riyasewana.com/thumb/thumbmitsubishi-lancer-
+wagon-149385412221.jpg","https://riyasewana.com/thumb/thumbmitsubishi-lancer-
+wagon-149385412221.jpg"
+Mitsubishi Galant 1983 Car,Hambantota,650000,120000,2025-02-14,"https://riyasewana.com/thumb/thumbmitsubishi-
+galant-149120912241.jpg","https://riyasewana.com/thumb/thumbmitsubishi-
+galant-149120912241.jpg"
+Mitsubishi Lancer 1985,Kandy,550000,254645,2025-02-13,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1985-1314125412781.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-1985-2025-02-13-1314125412781.html
+Nissan March K10 1987,Kegalle,790000,100000,2025-02-03,https://riyasewana.com/thumb/thumbnissan-march-k10-1313024517431.jpg,https://riyasewana.com/used-cars/nissan-march-k10-2025-02-03-1313024517431.html
+Nissan F14 1996,Bandaragama,800000,150000,2025-02-13,https://riyasewana.com/thumb/thumbnissan-fb-14-1312530522981.jpg,https://riyasewana.com/used-cars/nissan-fb14-2025-02-13-1312530522981.html
+Hyundai Stellar 1984,Homagama,875000,139000,2025-02-13,https://riyasewana.com/thumb/thumbhyundai-stellar-13121048851.jpg,https://riyasewana.com/used-cars/hyundai-stellar-2025-02-13-13121048851.html
+Toyota Corolla AE80 1984,Homagama,875000,222000,2025-02-13,https://riyasewana.com/thumb/thumbtoyota-corolla-ae80-13120907831.jpg,https://riyasewana.com/used-cars/toyota-corolla-ae80-2025-02-13-13120907831.html
+Fiat Uno 1986 Car,Ratnapura,675000,98588,2025-02-14,https://riyasewana.com/thumb/thumbfiat-uno-14906474983.jpg,https://riyasewana.com/car/fiat-uno-1986-car-ratnapura-1490647498
+Nissan March 1990 Car,Minuwangoda,675000,96885,2025-02-14,https://riyasewana.com/thumb/thumbnissan-march-14904504611.jpg,https://riyasewana.com/car/nissan-march-1990-car-minuwangoda-1490450461
+Peugeot 504 1974 Car,Gampaha,750000,0,2025-02-14,https://riyasewana.com/thumb/thumbpeugeot-peugeot-504-1974-149024012271.jpg,https://riyasewana.com/car/peugeot-504-1974-car-gampaha-1490240122
+Toyota Carina 1996 Car,Gampaha,995000,158000,2025-02-14,https://riyasewana.com/thumb/thumbtoyota-toyota-carina-14855274741.jpg,https://riyasewana.com/car/toyota-carina-1996-car-gampaha-1485527474
+Nissan B11 1983 Car,Matugama,0,0,2025-02-14,https://riyasewana.com/thumb/thumbnissan-b11-1983-1322350112401.jpg,https://riyasewana.com/car/nissan-b11-1983-car-matugama-1322350112
+Mitsubishi Lancer Fury 1986,Kurunegala,625000,264000,2025-02-13,https://riyasewana.com/thumb/thumbmitsubishi-lancer-fury-132121184891.jpg,<url>https://riyasewana.com/used-cars/mitsubishi-lancer-fury-1986-kurunegala-132121184891.html</url>
+Daewoo Daewoo 1994,Kegalle,750000,,2025-02-13,https://riyasewana.com/thumb/thumbdaewoo-daewoo-131900444261.jpg,<url>https://riyasewana.com/used-cars/daewoo-daewoo-1994-kegalle-131900444261.html</url>
+Toyota Dx Wagon Ke74 1985,Ratnapura,825000,125825,2025-02-13,https://riyasewana.com/thumb/thumbtoyota-dx-wegan-131848554231.jpg,<url>https://riyasewana.com/used-cars/toyota-dx-wagon-ke74-1985-ratnapura-131848554231.html</url>
+Toyota Carina 1996 Car,Gampaha,975000,158000,2025-02-13,https://riyasewana.com/thumb/thumbtoyota-toyota-carina-13743354781.jpg,https://riyasewana.com/used-cars/toyota-carina-1996-gampaha-13743354781
+Mitsubishi Lancer Wagon 1980 Car,Colombo,580000,100000,2025-02-13,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-1980-136203412631.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-wagon-1980-colombo-136203412631
+Nissan B11 Extra Model 1985 Car,Matale,21000000,250000,2025-02-12,https://riyasewana.com/thumb/thumbnissan-b11-extra-1221500722601.jpg,https://riyasewana.com/used-cars/nissan-b11-extra-model-1985-matale-1221500722601
+Mitsubishi Lancer Fury 1986 Car,Kurunegala,500000,11111,2025-02-12,https://riyasewana.com/thumb/mitsubishi-lancer-fury-122036124651.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-fury-1986-kurunegala-122036124651
+Suzuki Maruti 1987 Car,Ratnapura,825000,,2025-02-13,https://riyasewana.com/thumb/thumbsuzuki-maruti-1311541417824.jpg,https://riyasewana.com/used-car/suzuki-maruti-1987-car-for-sale-in-ratnapura-1311541417824
+Toyota Corona 1987 Car,Matugama,850000,400000,2025-02-13,https://riyasewana.com/thumb/thumbtoyota-corona-1987-1310484212291.jpg,https://riyasewana.com/used-car/toyota-corona-1987-car-for-sale-in-matugama-1310484212291
+Mazda 323 1985 Car,Gampaha,780000,120000,2025-02-13,https://riyasewana.com/thumb/thumbmazda-mazda-323-1310281624171.jpg,https://riyasewana.com/used-car/mazda-323-1985-car-for-sale-in-gampaha-1310281624171
+Peugeot 405 1992 Car,Kalutara,750000,123,2025-02-13,https://riyasewana.com/thumb/thumbpeugeot-405-13193303695115.jpg,https://riyasewana.com/used-car/peugeot-405-1992-car-for-sale-in-kalutara-13193303695115
+Nissan B11 1985 Car,Kandy,885000,,2025-02-13,https://riyasewana.com/thumb/thumbnissan-b11-13936374611.jpg,https://riyasewana.com/used-car/nissan-b11-1985-car-for-sale-in-kandy-13936374611
+Toyota Carina AA60 1986 Car,Piliyandala,775000,,2025-02-13,https://riyasewana.com/thumb/thumbtoyota-na-aa-1986-138500212871.jpg,https://riyasewana.com/used-car/toyota-carina-aa60-1986-car-for-sale-in-piliyandala-138500212871
+Mitsubishi Lancer Box 1983,Kurunegala,850000,50000,2025-02-12,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-121928004101.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-box-1983-kurunegala-121928004101.html
+Mitsubishi 1400 1982 Car,Kalutara,665000,1111,2025-02-12,https://riyasewana.com/thumb/thumbmitsubishi-140-wagonwagon-1216482412841.jpg,https://riyasewana.com/used-cars/mitsubishi-1400-1982-kalutara-1216482412841.html
+Suzuki Maruti 1994 Car,Kurunegala,670000,3,2025-02-12,https://riyasewana.com/thumb/thumbsuzuki-670000-121552314281.jpg,https://riyasewana.com/used-cars/suzuki-maruti-1994-kurunegala-121552314281.html
+Mitsubishi Lancer Flat Light 1977 Car,Negombo,765000,1111,2025-02-12,https://riyasewana.com/thumb/thumbmitsubishi-lancer-flat-1977-1214213912111.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-flat-light-1977-negombo-1214213912111.html
+Nissan March K10 1987 Car,Panadura,975000,400000,2025-02-12,https://riyasewana.com/thumb/thumbnissan-march-k-1987-1214021012931.jpg,https://riyasewana.com/used-cars/nissan-march-k10-1987-panadura-1214021012931.html
+Isuzu Gemini 1988,Gampaha,870000,,2025-02-12,https://riyasewana.com/thumb/thumbisuzu-gemini-121255204641.jpg,https://riyasewana.com/used-cars/isuzu-gemini-1988-gampaha-121255204641
+Volkswagen Beetle 1961,Kurunegala,700000,100000,2025-02-12,https://riyasewana.com/thumb/thumbvolkswagen-beetle-12123937602.jpg,https://riyasewana.com/used-cars/volkswagen-beetle-1961-kurunegala-12123937602
+Toyota Corona 1986,Anuradapura,710000,,2025-02-12,https://riyasewana.com/thumb/thumbtoota-corona-121037174191.jpg,https://riyasewana.com/used-cars/toyota-corona-1986-anuradapura-121037174191
+Mitsubishi Lancer 1986,Embilipitiya,675000,85212,2025-02-12,https://riyasewana.com/thumb/thumbmitsubishi-lancar-12944304431.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-1986-embilipitiya-12944304431
+Mitsubishi Lancer Box 1980,Matara,975000,147000,2025-02-12,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1980-128550912021.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-box-1980-matara-128550912021
+Mazda FAMILIA 323 1987,Matara,990000,147000,2025-02-12,https://riyasewana.com/thumb/thumbmazda-familia-323-1987-12891512491.jpg,https://riyasewana.com/used-cars/mazda-familia-323-1987-matara-12891512491
+Toyota Dx Wagon Ke72 1987,Kandy,750000,250000,2025-02-12,https://riyasewana.com/thumb/thumbtoyota-dx-wagon-1987-12825141244129.jpg,https://riyasewana.com/used-cars/toyota-dx-wagon-ke72-1987-kandy-12825141244129
+Suzuki Celerio X 2018,Kurunegala,6000000,29000,2025-02-16,https://riyasewana.com/thumb/thumbsuzuki-celerio-x-2018-169583613001.jpg,https://riyasewana.com/used-cars/suzuki/celerio-x/2018/kurunegala/6000000/6000000/29000/2025-02-16
+Suzuki Spacia Custom 2018,Colombo,8300000,60627,2025-02-02,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-27183922581.jpg,https://riyasewana.com/used-cars/suzuki/spacia-custom/2018/colombo/8300000/60627/2025-02-02
+Toyota Allion 260,Colombo,,138000,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-allion-260-22911531094.jpg,https://riyasewana.com/used-cars/toyota/allion/260/colombo/negotiable/138000/2025-02-15
+Toyota Axio 141,Malabe,8290000,148600,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-axio-141-2010-1515263612891.jpg,https://riyasewana.com/used-cars/toyota/axio/141/2010/malabe/8290000/148600/2025-02-15
+Mazda Familia BF 323 1988 Car,Kaduwela,820000,204200,2025-02-11,https://riyasewana.com/thumb/thumbmazda-familia-bf-1988-1119084912521.jpg,https://riyasewana.com/car/mazda-familia-bf-323-1988-1119084912521.html
+Mazda BF3P 1996 Car,Matugama,870000,200000,2025-02-11,https://riyasewana.com/thumb/thumbmazda-bf3p-11140448971.jpg,https://riyasewana.com/car/mazda-bf3p-1996-11140448971.html
+Toyota Ke70 1980 Car,Badulla,795000,125000,2025-02-11,https://riyasewana.com/thumb/thumbtoyota-ke70-1112311722151.jpg,https://riyasewana.com/car/toyota-ke70-1980-1112311722151.html
+Nissan Sunny Bluebird RU11 1989 Car,Kandy,975000,280,2025-02-12,https://riyasewana.com/thumb/thumbnissan-sunny-bluebird-127163722151.jpg,https://riyasewana.com/vehicle/nissan-sunny-bluebird-ru11-1989-car-kandy-127163722151
+Mazda Demio 2003 Car,Gampaha,975000,138000,2025-02-12,https://riyasewana.com/thumb/thumbmazda-mazda-demio-12659214871.jpg,https://riyasewana.com/vehicle/mazda-demio-2003-car-gampaha-12659214871
+Mazda Familia 1990 Car,Kurunegala,825000,,2025-02-02,https://riyasewana.com/thumb/thumbmazda-familiya-1990-125223112021.jpg,https://riyasewana.com/vehicle/mazda-familia-1990-car-kurunegala-125223112021
+Mitsubishi Lancer Wagon C11v 1986 Car,Kegalle,800000,200000,2025-02-12,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-1986-113572612021.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-wagon-c11v-1986-car-kegalle-113572612021
+Daewoo Racer 1994 Car,Suz,,,2025-02-12,https://riyasewana.com/thumb/thumbdaewoo-recer-12005454171.jpg,https://riyasewana.com/vehicle/daewoo-recer-1994-car-suz-12005454171
+Kia Rio 2003,Nittambuwa,990000,55555,2025-02-12,https://riyasewana.com/thumb/thumbkia-rio-2003-1122415912231.jpg,<https://riyasewana.com/used-cars/kia/rio/2003/1122415912231>
+Mitsubishi Lancer Box 1983,Ratnapura,695000,150000,2025-02-11,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1983-1121445812281.jpg,<https://riyasewana.com/used-cars/mitsubishi/lancer-box/1983/1121445812281>
+Nissan Sunny B211 1977,Negombo,925000,157367,2025-02-11,https://riyasewana.com/thumb/thumbnissan-sunny-b211-1977-1121275412531.jpg,<https://riyasewana.com/used-cars/nissan/sunny-b211/1977/1121275412531>
+Toyota KE50 1977,Kegalle,725000,1111,2025-02-11,https://riyasewana.com/thumb/thumbtoyota-ke50-112042394901100.jpg,<https://riyasewana.com/used-cars/toyota/ke50/1977/112042394901100>
+Toyota KE50 1977,Kegalle,875000,120000,2025-02-11,https://riyasewana.com/thumb/thumbtoyota-ke50-112042394901100.jpg,<https://riyasewana.com/used-cars/toyota/ke50/1977/112042394901100>
+Toyota Corolla Ae80 1985,Gampaha,575000,180000,2025-02-11,https://riyasewana.com/thumb/thumbtoyota-ncorolla-ae80-118134012851.jpg,https://riyasewana.com/thumb/thumbtoyota-ncorolla-ae80-118134012851.jpg
+Toyota Corolla DX 1988,Katunayake,890000,200000,2025-02-11,https://riyasewana.com/thumb/thumbtoyota-corolla-dx-11651374451.jpg,https://riyasewana.com/thumb/thumbtoyota-corolla-dx-11651374451.jpg
+Mazda Demio 2001,Gampaha,640000,,2025-02-11,https://riyasewana.com/thumb/thumbmazda-mazda-demio-11643144971.jpg,https://riyasewana.com/thumb/thumbmazda-mazda-demio-11643144971.jpg
+Toyota GL 505 1986,Divulapitiya,960000,1111,2025-02-11,https://riyasewana.com/thumb/thumbtoyota-gl-505-1986-1110165412381.jpg,https://riyasewana.com/thumb/thumbtoyota-gl-505-1986-1110165412381.jpg
+Hyundai Stellar 1984,Kalutara,600000,198564,2025-02-11,https://riyasewana.com/thumb/thumbhyundai-stellar-11955394281.jpg,https://riyasewana.com/thumb/thumbhyundai-stellar-11955394281.jpg
+Mitsubishi Lancer Box 1982,Hanwella,690000,111111,2025-02-11,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1982-119213712071.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1982-119213712071.jpg
+Toyota DX Wagon 1984,Pannala,925000,2025,2025-02-11,https://riyasewana.com/thumb/thumbtoyota-toyota-wagon-11919474051.jpg,https://riyasewana.com/thumb/thumbtoyota-toyota-wagon-11919474051.jpg
+Nissan Sunny B310 1980,Divulapitiya,,,,https://riyasewana.com/thumb/thumbnissan-suny-b-310-11918134361.jpg,https://riyasewana.com/thumb/thumbnissan-suny-b-310-11918134361.jpg
+Isuzu Gemini 1980 Car,Matale,650000,280000,2025-02-10,https://riyasewana.com/thumb/thumbisuzu-jemini-101026274181.jpg,https://riyasewana.com/thumb/thumbisuzu-jemini-101026274181.jpg
+Honda CITY 1999 Car,Ragama,600000,102500,2025-02-10,https://riyasewana.com/thumb/thumbhonda-honda-city-10959274151.jpg,https://riyasewana.com/thumb/thumbhonda-honda-city-10959274151.jpg
+Nissan AD Wagon 1984 Car,Anuradapura,750000,11111,2025-02-10,https://riyasewana.com/thumb/thumbnissan-nisssn-e13-102534612271.jpg,https://riyasewana.com/thumb/thumbnissan-nisssn-e13-102534612271.jpg
+Mitsubishi Lancer Box 1984 Car,Pannipitiya,985000,200000,2025-02-10,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-984-101534612221.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-984-101534612221.jpg
+Nissan HB310 1980 Car,Kandy,625000,N/A,2025-02-10,https://riyasewana.com/thumb/thumbnissan-hb310-923370322701.jpg,https://riyasewana.com/thumb/thumbnissan-hb310-923370322701.jpg
+Suzuki Wagon R 2024,Ampara,539000,118000,2025-02-10,https://riyasewana.com/thumb/thumbtata-wagonr-102257384041.jpg,https://riyasewana.com/used-cars/suzuki-wagon-r-2024-used-car-for-sale-in-ampara-102257384041.html
+Bajaj Qute 2018,Avissawella,940000,40000,202025-02-11,https://riyasewana.com/thumb/thumbbajaj-qute-2018-1015435112831.jpg,https://riyasewana.com/used-cars/bajaj-qute-2018-used-car-for-sale-in-avissawella-1015435112831.html
+Mitsubishi Lancer 1981,Kandy,600000,90000,2025-02-10,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1981-1014464412101.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-1981-used-car-for-sale-in-kandy-1014464412101.html
+Mazda Familia 1994,Gampaha,850000,128000,2025-02-10,https://riyasewana.com/thumb/thumbmazda-mazda-familia-1994-1014262512501.jpg,https://riyasewana.com/used-cars/mazda-familia-1994-used-car-for-sale-in-gampaha-1014262512501.html
+Toyota Carina AA60 1985,Gampaha,775000,0,2025-02-10,https://riyasewana.com/thumb/thumbtoyota-carina-aa-10123447871.jpg,https://riyasewana.com/used-cars/toyota-carina-aa60-1985-used-car-for-sale-in-gampaha-10123447871.html
+Toyota Carina AA60 1985,Gampaha,775000,0,2025-02-10,https://riyasewana.com/thumb/thumbtoyota-carina-aa-10123447871.jpg,https://riyasewana.com/used-cars/toyota-carina-aa60-1985-used-car-for-sale-in-gampaha-10123447871.html
+Nissan AD Wagon 1983,Kandy,750000,2,2025-02-09,https://riyasewana.com/thumb/thumbnissan-ad-wagon-923295522561.jpg,https://riyasewana.com/car/nissan-ad-wagon-1983-923295522561.html
+Mitsubishi C11 1989,Kurunegala,675000,1,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-c11-1989-922502912371.jpg,https://riyasewana.com/car/mitsubishi-c11-1989-922502912371.html
+Mitsubishi Lancer Box 1982,Kaduwela,690000,74,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-92130084581.jpg,https://riyasewana.com/car/mitsubishi-lancer-box-1982-92130084581.html
+Mitsubishi Lancer 1979,Kandy,700000,202500,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1979-918540812183.jpg,https://riyasewana.com/car/mitsubishi-lancer-1979-918540812183.html
+Mitsubishi C12 1985,Kurunegala,815000,2025,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-c12-91743144351.jpg,https://riyasewana.com/car/mitsubishi-c12-1985-91743144351.html
+Micro Privilege 2003,Homagama,950000,150000,2025-02-09,https://riyasewana.com/thumb/thumbmicro-priv-91634504201.jpg,https://riyasewana.com/car/micro-privilege-2003-91634504201.html
+Toyota Premio 2017,Kottawa,110000,110000,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-premio-2017-1216300112061.jpg,https://riyasewana.com/thumb/thumbtoyota-premio-2017-1216300112061.jpg
+Suzuki Swift RS Turbo Safety 2019,Colombo,9440000,52000,2025-02-14,https://riyasewana.com/thumb/thumbsuzuki-swift-rs-1423393417411.jpg,https://riyasewana.com/thumb/thumbsuzuki-swift-rs-1423393417411.jpg
+Toyota Premio G Superior 2018,Dehiwala-Mount-Lavinia,18250000,27550,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-premio-g-2018-1422074012411.jpg,https://riyasewana.com/thumb/thumbtoyota-premio-g-2018-1422074012411.jpg
+Suzuki Spacia Custom 2018,Colombo,8300000,60627,2025-02-14,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-27183922581.jpg,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-27183922581.jpg
+Mitsubishi Lancer Box 1981,Matara,980000,90000,2025-02-09,https://riyasewana.comthumb/thumbmitsubishi-lancer-box-1981-98300712371.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-1981-98300712371
+Toyota AE81 Sprinter 1985,Ratnapura,990000,120000,2025-02-09,https://riyasewana.com/thumb/thumbtoyota-tyota-ae-1985-97270412341.jpg,https://riyasewana.com/vehicle/toyota-ae81-sprinter-1985-97270412341
+Mitsubishi C12 Lancer Wagon 1985,Kurunegala,750000,,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-c12-9606174071.jpg,https://riyasewana.com/vehicle/mitsubishi-c12-lancer-wagon-1985-9606174071
+Mitsubishi C12 Lancer Wagon 1985,Kurunegala,750000,,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-c12-9606174071.jpg,https://riyasewana.com/vehicle/mitsubishi-c12-lancer-wagon-1985-9606174071
+Nissan B310 1979 Car,Badulla,500000,,2025-02-09,https://riyasewana.com/thumb/thumbnissan-b310-91547394291.jpg,https://riyasewana.com/vehicle/nissan-b310-1979-car-badulla-20250209-02
+Nissan Sunny B211 1983 Car,Minuwangoda,500000,,2025-02-09,https://riyasewana.com/thumb/thumbnissan-b211-1983-915445322351.jpg,https://riyasewana.com/vehicle/nissan-sunny-b211-1983-car-minuwangoda-20250209-02
+Isuzu Gemini 1989 Car,Kurunegala,800000,140000,2025-02-09,https://riyasewana.com/thumb/thumbisuzu-gemini-1989-913504612811.jpg,https://riyasewana.com/vehicle/isuzu-gemini-1989-car-kurunegala-20250209-02
+Nissan B11 1983 Car,Kurunegala,850000,300000,2025-02-09,https://riyasewana.com/thumb/thumbnissan-b-11-1983-913302112251.jpg,https://riyasewana.com/vehicle/nissan-b11-1983-car-kurunegala-20250209-02
+Mitsubishi Mirage Turbo 1982 Car,Colombo,800000,150000,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-mirage-turbo-1982-913080912171.jpg,https://riyasewana.com/vehicle/mitsubishi-mirage-turbo-1982-car-colombo-20250209-02
+Mitsubishi Lancer Box 1980 Car,Padukka,750000,12345,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1980-912285812363.jpg,<url>https://riyasewana.com/used-cars/mitsubishi-lancer-box-1980-padukka-rs-750000-12345-km-2025-02-09</url>
+Mitsubishi Lancer L Light 1976 Car,Matale,580000,130000,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-lancer-l-1976-910563612541.jpg,<url>https://riyasewana.com/used-cars/mitsubishi-lancer-l-light-1976-matale-rs-580000-130000-km-2025-02-09</url>
+Mitsubishi Lancer 10 Light Galant 1974 Car,Marawila,620000,300000,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-10-light-1974-99453212081.jpg,<url>https://riyasewana.com/used-cars/mitsubishi-lancer-10-light-galant-1974-marawila-rs-620000-300000-km-2025-02-09</url>
+Nissan B11 1989 Car,Kurunegala,590000,1234,2025-02-09,https://riyasewana.com/thumb/thumbnissan-b11-1989-98555412534.jpg,<url>https://riyasewana.com/used-cars/nissan-b11-1989-kurunegala-rs-590000-1234-km-2025-02-09</url>
+Mitsubishi C12 1985 Car,Kurunegala,,,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-c12-9842334991.jpg,<url>https://riyasewana.com/used-cars/mitsubishi-c12-1985-kurunegala</url>
+Mitsubishi C12 1985 Car,Kurunegala,,,2025-02-09,https://riyasewana.com/thumb/thumbmitsubishi-c12-9842334991.jpg,<url>https://riyasewana.com/used-cars/mitsubishi-c12-1985-kurunegala</url>
+Daihatsu Charade G101s 1989 Car,Kandy,800000,202500,2025-02-08,https://riyasewana.com/thumb/thumbdaihatsu-charade-g101s-82352464721.jpg,https://riyasewana.com/car/daihatsu-charade-g101s-1989-car-kandy-82352464721.html
+Mazda MR 90 1992 Car,Gampola,880000,102000,2025-02-08,https://riyasewana.com/thumb/thumbmazda-mr90-823103022821.jpg,https://riyasewana.com/car/mazda-mr-90-1992-car-gampola-823103022821.html
+Toyota DX Wagon 1985 Car,Galle,830000,300000,2025-02-08,https://riyasewana.com/thumb/thumbtoyota-dx-wagon-82206484791.jpg,https://riyasewana.com/car/toyota-dx-wagon-1985-car-galle-82206484791.html
+Nissan B11 1983 Car,Galle,500000,125000,2025-02-08,https://riyasewana.com/thumb/thumbnissan-b11-1983-821230212241.jpg,https://riyasewana.com/car/nissan-b11-1983-car-galle-821230212241.html
+Toyota Dx Wagon 1983 Car,Horana,665000,,2025-02-08,https://riyasewana.com/thumb/thumbtoyota-dx-wagon-1983-821091612591.jpg,https://riyasewana.com/car/toyota-dx-wagon-1983-car-horana-821091612591.html
+Nissan B211 1977,Moratuwa,585000,154502,2025-02-08,https://riyasewana.com/thumb/thumbnissan-b211-1977-811101612011.jpg,https://riyasewana.com/vehicle/nissan-b211-1977-811101612011.html
+Ford LASER BD 1982,Pannipitiya,875000,888888,2025-02-08,https://riyasewana.com/thumb/thumbford-ford-laser-810571622721.jpg,https://riyasewana.com/vehicle/ford-laser-bd-1982-810571622721.html
+Nissan Sunny Ad Wagon Vb11 1986,Kaduwela,620000,287000,2025-02-08,https://riyasewana.com/thumb/thumbnissan-ad-wagon-810472117431.jpg,https://riyasewana.com/vehicle/nissan-sunny-ad-wagon-vb11-1986-810472117431.html
+Toyota Wagon KE72 1985,Gampaha,700000,287000,2025-02-08,https://riyasewana.com/thumb/thumbtoyota-wagon-ke72-1985-81030321267143.jpg,https://riyasewana.com/vehicle/toyota-wagon-ke72-1985-81030321267143.html
+Proton Gen 2 2006 Car,Maharagama,980000,161000,2025-02-08,https://riyasewana.com/thumb/thumbproton-gen-2-2006-819321912122.jpg,https://riyasewana.com/used-cars/proton-gen-2-2006-819321912122.html
+Nissan HB11 1984 Car,Bandaragama,970000,1542,2025-02-08,https://riyasewana.com/thumb/thumbnissan-hb11-819191522671.jpg,https://riyasewana.com/used-cars/nissan-hb11-1984-819191522671.html
+Mitsubishi Colt 1969 Car,Avissawella,950000,50000,2025-02-08,https://riyasewana.com/thumb/thumbmitsubishi-mitsubishi-colt-81721594831.jpg,https://riyasewana.com/used-cars/mitsubishi-colt-1969-81721594831.html
+Nissan Nissan 1983 Car,Gampaha,650000,123456,2025-02-08,https://riyasewana.com/thumb/thumbnissan-nissan-81525424021.jpg,https://riyasewana.com/used-cars/nissan-nissan-1983-81525424021.html
+Mitsubishi Lancer Box 1983 Car,Panadura,1000000,1542,2025-02-08,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-8151741581.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-box-1983-8151741581.html
+Mitsubishi Suz Box 1983 Car,Panadura,1000000,1542,2025-02-08,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-8151741581.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-box-1983-8151741581.html
+Toyota Corolla KE20 Hi Deluxe 1983 Car,Gampaha,685000,123500,2025-02-08,https://riyasewana.com/thumb/thumbtoyota-corolla-ke20-1983-80173312431.jpg,https://riyasewana.com/used-cars/toyota-corolla-ke20-1983-80173312431.html
+Nissan B11 1983 Car,Chilaw,695000,,2025-02-07,https://riyasewana.com/thumb/thumbnissan-b11-72314104391.jpg,https://riyasewana.com/used-cars/nissan-b11-72314104391.html
+Mitsubishi Lancer 1987 Car,Chilaw,75000,21245638,2025-02-07,https://riyasewana.com/thumb/thumbmitsubishi-lancer-3307224891.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-3307224891.html
+Nissan AD Wagon 1984 Car,Matugama,75000,164300,2025-02-07,https://riyasewana.com/thumb/thumbnissan-ad-wagon-72109044971.jpg,https://riyasewana.com/used-cars/nissan-ad-wagon-72109044971.html
+Toyota Carina AA60 1987 Car,Gampaha,55000,125000,2025-02-07,https://riyasewana.com/thumb/thumbtoyota-carina-aa60-1987-12361.jpg,https://riyasewana.com/used-cars/toyota-carina-aa60-1987-12361.html
+Toyota Corolla KE30 0 Car,Kuliyapitiya,60000,50000,2025-02-07,https://riyasewana.com/thumb/thumbtoyota-corolla-ke30-71835552051.jpg,https://riyasewana.com/used-cars/toyota-corolla-ke30-71835552051.html
+Nissan B11 1985 Car,Negombo,875000,,2025-02-07,https://riyasewana.com/thumb/thumbnissan-b-11-7160143191.jpg,https://riyasewana.com/used-cars/nissan-b-11-7160143191.html
+Nissan HB11 1986 Car,Matugama,695000,170000,2025-02-07,https://riyasewana.com/thumb/thumbnissan-hb-11-71500424511.jpg,https://riyasewana.com/cars/view/71500424511
+Toyota Carina At 150 1987 Car,Dompe,765000,12500,2025-02-07,https://riyasewana.com/thumb/thumbtoyota-carina-at-1987-714242412801.jpg,https://riyasewana.com/cars/view/714242412801
+Nissan B11 1982 Car,Kurunegala,650000,7,2025-02-07,https://riyasewana.com/thumb/thumbnissan-nissan-b11-71424214621.jpg,https://riyasewana.com/cars/view/71424214621
+Toyota AE80 Sprinter 1984 Car,Matara,820000,123456,2025-02-07,https://riyasewana.com/thumbtoyota-toyota-ae-1984-713334212491.jpg,https://riyasewana.com/cars/view/7133334212491
+Toyota Corolla Sprinter AE80 1985,Galle,860000,0,2025-02-06,https://riyasewana.com/thumb/thumbtoyota-sprinter-ae-622413450.jpg,https://riyasewana.com/car/toyota-sprinter-ae80-1985-car-860000-0-2025-02-06
+Morris Minor 0,Galle,625000,130000,2025-02-06,https://riyasewana.com/thumb/thumbmorris-minor-621415722871.jpg,https://riyasewana.com/car/morris-minor-0-galle-625000-130000-2025-02-06
+Nissan B11 1983,Nittambuwa,750000,1,2025-02-06,https://riyasewana.com/thumb/thumbnissan-b11-62043124611.jpg,https://riyasewana.com/car/nissan-b11-62043124611
+Mitsubishi Towny 1988,Colombo,740000,123456,2025-02-06,https://riyasewana.com/thumb/thumbmitsubishi-ntowny-1988-car.jpg,https://riyasewana.com/car/mitsubishi-towny-1988
+Nissan California 1984,Kandy,720000,300000,2025-02-06,https://riyasewana.com/thumb/thumbnissan-california-1984-618434912731.jpg,https://riyasewana.com/car/nissan-california-1984-kandy
+Suzuki Alto 2010,Colombo,550000,10000,2025-02-12,https://riyasewana.com/thumb/thumbsuzuki-alto-2010-car.jpg,https://riyasewana.com/car/suzuki-alto-2010-colombo
+Toyota Aqua 2015,Colombo,1200000,50000,2025-02-06,https://riyasewana.com/thumb/thumbtoyota-aqua-2015-car.jpg,https://riyasewana.com/car/toyota-aqua-2015
+Mitsubishi A172 1984,Anuradapura,900000,57000,2025-02-07,https://riyasewana.com/thumb/thumbmitsubishi-a172-1984-711354312841.jpg,https://riyasewana.com/vehicle/mitsubishi-a172-1984-anuradapura-711354312841.html
+Toyota Carina AT150 1986,Galle,775000,100000,2025-02-07,https://riyasewana.com/thumb/thumbtoyota-carina-at150-1986-711234512851.jpg,https://riyasewana.com/vehicle/toyota-carina-at150-1986-galle-711234512851.html
+Nissan March K10 1985,Bandarawela,920000,100000,2025-02-07,https://riyasewana.com/thumb/nissan-march-k10-1985-76452512031,https://riyasewana.com/vehicle/nissan-march-k10-1985-76452512031
+Mitsubishi C12 1985 Car,Kurunegala,690000,150000,2025-02-06,https://riyasewana.com/thumb/thumbmitsubishi-c12-61821254971.jpg,https://riyasewana.com/used-cars/mitsubishi-c12-1985-car-kurunegala-61821254971.html
+Nissan Hb11 GL Long Buffer 1985 Car,Kurunegala,730000,130000,2025-02-06,https://riyasewana.com/thumb/thumbnissan-hb11-gl-1985-13590512762.jpg,https://riyasewana.com/used-cars/nissan-hb11-gl-long-buffer-1985-car-kurunegala-13590512762.html
+Nissan B11 1985 Car,Colombo,750000,350000,2025-02-06,https://riyasewana.com/thumb/thumbnissan-b-11-1985-61223181290185.jpg,https://riyasewana.com/used-cars/nissan-b11-1985-car-colombo-61223181290185.html
+Toyota Corolla 1985 Car,Colombo,600000,,2025-02-06,https://riyasewana.com/thumb/thumbtoyota-toyota-corolla-6104917211.jpg,https://riyasewana.com/used-cars/toyota-corolla-1985-car-colombo-6104917211.html
+Mitsubishi Lancer 1988 Car,Hatton,795000,11111,2025-02-06,https://riyasewana.com/thumb/thumbmitsubishi-lancer-61045544051.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-1988-car-hatton-61045544051.html
+Mitsubishi Lancer 1988 Car,Hatton,795000,11111,2025-02-06,https://riyasewana.com/thumb/thumbmitsubishi-lancer-61045544051.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-1988-car-hatton-61045544051.html
+Suzuki Maruti 1981 Car,Kurunegala,575000,,2025-02-06,https://riyasewana.com/thumb/thumbsuzuki-maruti-69254422721.jpg,https://riyasewana.com/thumb/thumbsuzuki-maruti-69254422721.jpg
+Mitsubishi Lancer 1978 Car,Kuliyapitiya,700000,,2025-02-05,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1978-521445712411.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1978-521445712411.jpg
+Toyota Corolla Dx Ke 74 1987 Car,hiwala-Mount-Lavinia,965000,240000,2025-02-05,https://riyasewana.com/thumb/thumbtoyota-corolla-dx-517350722451.jpg,https://riyasewana.com/thumb/thumbtoyota-corolla-dx-517350722451.jpg
+Toyota AE80 1983 Car,Colombo,965000,140000,2025-02-05,https://riyasewana.com/thumb/thumbtoyota-ae80-51710104421.jpg,https://riyasewana.com/thumb/thumbtoyota-ae80-51710104421.jpg
+Mercedes-Benz W115 0 Car,Kaduwela,775000,12345,2025-02-05,https://riyasewana.com/thumb/thumbmercedes-benz-w115-515333422671.jpg,https://riyasewana.com/thumb/thumbmercedes-benz-w115-515333422671.jpg
+Toyota Carina 1988,Anuradapura,685000,65238,2025-02-05,https://riyasewana.com/thumb/thumbtoyota-carina-5816414241.jpg,https://riyasewana.com/thumb/thumbtoyota-carina-5816414241.html
+Peugeot 504 1976,Kegalle,725000,55555,2025-02-05,https://riyasewana.com/thumb/thumbpeugeot-504-5747144031.jpg,https://riyasewana.com/thumb/thumbpeugeot-504-5747144031.html
+Nissan B211 1975,Kadawatha,655000,89000,2025-02-05,https://riyasewana.com/thumb/thumbnissan-b211-1975-423192712461.jpg,https://riyasewana.com/thumb/thumbnissan-b211-1975-423192712461.html
+Mitsubishi Lancer 1986,Ambalangoda,650000,78000,2025-02-04,https://riyasewana.com/thumb/thumbmitsubishi-lancer-42014064941.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-42014064941.html
+Peugeot 203 1952,Kadawatha,900000,250000,2025-02-04,https://riyasewana.com/thumb/thumbpeugeot-203-1952-418354112251.jpg,https://riyasewana.com/thumb/thumbpeugeot-203-1952-418354112251.html
+Mazda MR 90 1992,Dehiwala-Mount-Lavinia,835000,120000,2025-02-04,https://riyasewana.com/thumb/thumbmazda-mr90-1992-415120412371.jpg,https://riyasewana.com/vehicle/mazda-mr90-1992-415120412371
+Nissan Sunny 1983,Chilaw,575000,542855,2025-02-04,https://riyasewana.com/thumb/thumbnissan-sunny-4134954721.jpg,https://riyasewana.com/vehicle/nissan-sunny-1983-4134954721
+Nissan Sunny 1980,Kuliyapitiya,575000,128865,2025-02-04,https://riyasewana.com/thumb/thumbnissan-sunny-41340354701.jpg,https://riyasewana.com/vehicle/nissan-sunny-1980-41340354701
+Kia Sephia 2002,Kurunegala,4850000,79000,2025-02-04,https://riyasewana.com/thumb/thumbkia-sephia-2002-41241511239125.jpg,https://riyasewana.com/vehicle/kia-sephia-2002-41241511239125
+Suzuki Wagon R 2019,Colombo,725000,146000,2025-02-04,https://riyasewana.com/thumb/thumbsuzuki-wagon-r-322323922451.jpg,https://riyasewana.com/vehicle/suzuki-wagon-r-2019-322323922451
+Toyota COROLLA 1971 Car,Matara,950000,,2025-02-03,https://riyasewana.com/thumb/thumbtoyota-corolla-31201034071.jpg,https://riyasewana.com/vehicle/toyota-corolla-1971-car-matara-31201034071
+Toyota Corona AT140 1985 Car,Ratnapura,800000,,2025-02-03,https://riyasewana.com/thumb/thumbtoyota-corona-at140-38571222361.jpg,https://riyasewana.com/vehicle/toyota-corona-at140-1985-car-ratnapura-38571222361
+Toyota Corona 1986 Car,Matugama,890000,150000,2025-02-03,https://riyasewana.com/thumb/thumbtoyota-corona-1986-37501712261.jpg,https://riyasewana.com/vehicle/toyota-corona-1986-car-matugama-37501712261
+Toyota Corolla AE81 1985 Car,Gampaha,780000,,2025-02-03,https://riyasewana.com/thumb/thumbtoyota-corolla-ae-332851571.jpg,https://riyasewana.com/vehicle/toyota-corolla-ae81-1985-car-gampaha-332851571
+Toyota Corolla AE80 1988 Car,Rajagiriya,950000,220000,2025-02-02,https://riyasewana.com/thumb/thumbtoyota-corolla-ae-1988-221071712751.jpg,https://riyasewana.com/vehicle/toyota-corolla-ae80-1988-car-rajagiriya-221071712751
+Bajaj Qute 2019 Car,Matale,675000,59000,2025-02-03,https://riyasewana.com/thumb/thumbbajaj-qute-310252351.jpg,https://riyasewana.com/vehicle/bajaj-qute-2019-car-310252351.html
+Mitsubishi Lancer 1980 Car,Anuradapura,83000,,2025-02-03,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1980-318492012381.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-1980-car-318492012381.html
+Honda Grace Ex 2016 Car,Matara,1000000,110000,2025-02-03,https://riyasewana.com/thumb/thumbhonda-grace-ex-318431022841.jpg,https://riyasewana.com/vehicle/honda-grace-ex-2016-car-318431022841.html
+Nissan HB11 1983 Car,Gampaha,890000,250000,2025-02-03,https://riyasewana.com/thumb/thumbnissan-hb11-loan-3154428481.jpg,https://riyasewana.com/vehicle/nissan-hb11-1983-car-3154428481.html
+Toyota Corolla KE20 1971 Car,Kurunegala,900000,,2025-02-03,https://riyasewana.com/thumb/thumbtoyota-corolla-ke-1971-313590712931.jpg,https://riyasewana.com/vehicle/toyota-corolla-ke20-1971-car-313590712931.html
+Toyota Corolla KE20 1971 Car,Kurunegala,900000,,2025-02-03,https://riyasewana.com/thumb/thumbtoyota-corolla-ke-1971-313590712931.jpg,https://riyasewana.com/vehicle/toyota-corolla-ke20-1971-car-313590712931.html
+Peugeot 505 1983 Car,Malabe,595000,219241,2025-02-04,https://riyasewana.com/thumb/thumbpeugeot-505-41105144921.jpg,https://riyasewana.com/vehicle/peugeot-505-1983-car-219241
+Hyundai Hyundai 1992 Car,Anuradapura,1000000,,2025-02-04,https://riyasewana.com/thumb/thumbhyundai-hyundai-1992-410474512051.jpg,https://riyasewana.com/vehicle/hyundai-hyundai-1992-car-410474512051
+Peugeot 405 1996 Car,Pannipitya,775000,122000,2025-02-04,https://riyasewana.com/thumb/thumbpeugeot-405-4856474591.jpg,https://riyasewana.com/vehicle/peugeot-405-1996-car-4856474591
+Nissan Sunny VHB11 1988 Car,Marawila,950000,,2025-02-04,https://riyasewana.com/thumb/thumbnissan-nishan-sunny-1988-47405712641.jpg,https://riyasewana.com/vehicle/nissan-sunny-vhb11-1988-car-47405712641
+Proton Wira 1993 Car,Embilipitiya,600000,100000,2025-02-04,https://riyasewana.com/thumb/thumbproton-proton-wira-1993-41571112151.jpg,https://riyasewana.com/vehicle/proton-wira-1993-car-41571112151
+Hyundai Stellar 1987 Car,Matale,,,,https://riyasewana.com/thumb/thumbhyundai-stela-32122522231.jpg,https://riyasewana.com/vehicle/hyundai-stellar-1987-car-32122522231
+Hyundai Stellar 1987 Car,Matale,,,,https://riyasewana.com/thumb/thumbhyundai-stela-321222522231.jpg,https://riyasewana.com/vehicle/hyundai-stellar-1987-car-321222522231
+Mitsubishi Lancer Box 1983 Car,Kurunegala,650000,,2025-02-02,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-212240022731.jpg,
+Toyota Corolla 1987 Car,Gampaha,780000,60000,2025-02-02,https://riyasewana.com/thumb/thumbtoyota-corolla-2114200171.jpg,
+Toyota Dx Wagon Ke72 1986 Car,Piliyandala,650000,10000,2025-02-02,https://riyasewana.com/thumb/thumbtoyota-dx-wagon-1986-2951031207140.jpg,
+Toyota Carina AA60 1983 Car,Hanwella,810000,,2025-02-02,https://riyasewana.com/thumb/thumbtoyota-aa60-2940514291.jpg,
+Mazda BF3 Familia Hatchback 1987 Car,Kadawatha,985000,140000,2025-02-02,https://riyasewana.com/thumb/thumbmazda-bf3-familia-1987-28533912941.jpg,
+Toyota Corolla AE80 1985 Car,Kaduwela,615000,135000,2025-02-02,https://riyasewana.com/thumb/thumbtoyota-corolla-ae-1985-239511412491.jpg,https://riyasewana.com/vehicle/toyota-corolla-ae80-1985-car-kaduwela-rs-615000-135000-km-2025-02-02
+Ford Laser 1987 Car,Anuradapura,960000,1200000,2025-02-02,https://riyasewana.com/thumb/thumbford-laser-1987-416412812571.jpg,https://riyasewana.com/vehicle/ford-laser-1987-car-anuradapura-rs-960000-1200000-km-2025-02-02
+Mitsubishi Lancer 1986 Car,Minuwangoda,920000,,2025-02,https://riyasewana.com/thumb/thumbmitsubishi-lancer-21601184971.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-1986-car-minuwangoda-rs-920000-2025-02-02
+Toyota Carina AA60 1983 Car,Horana,650000,100000,2025-02-02,https://riyasewana.com/thumb/thumbtoyota-carina-aa60-1983-215433412011.jpg,https://riyasewana.com/vehicle/toyota-carina-aa60-1983-car-horana-rs-650000-100000-km-2025-02-02
+Volkswagen Jetta 1988 Car,Kandana,650000,10,2025-02-02,https://riyasewana.com/thumb/thumbvolkswagen-jetta-1988-215165312341.jpg,https://riyasewana.com/vehicle/volkswagen-jetta-1988-car-kandana-rs-650000-10-km-2025-02-02
+Volkswagen Jetta 1988 Car,Kandana,650000,10,2025-02-02,https://riyasewana.com/thumb/thumbvolkswagen-jetta-1988-215165312341.jpg,https://riyasewana.com/vehicle/volkswagen-jetta-1988-car-kandana-rs-650000-10-km-2025-02-02
+Mitsubishi Lancer Box 1981 Car,Kegalle,950000,161113,2025-02-02,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1981-214154312861.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-1981-214154312861.html
+Toyota Corolla CE96 1993 Car,Kegalle,750000,,2025-02-02,https://riyasewana.com/thumb/thumbtoyota-corolla-ce96-2141344851.jpg,https://riyasewana.com/vehicle/toyota-corolla-ce96-1993-2141344851.html
+Toyota Ke20 Coupe 1972 Car,Gampaha,650000,,2025-02-02,https://riyasewana.com/thumb/thumbtoyota-toyota-ke20-1972-213524812271.jpg,https://riyasewana.com/vehicle/toyota-ke20-coupe-1972-213524812271.html
+Toyota Corolla 1973 Car,Mawanella,625000,,2025-02-02,https://riyasewana.com/thumb/thumbtoyota-corolla-2130215541.jpg,https://riyasewana.com/vehicle/toyota-corolla-1973-2130215541.html
+Volkswagen Beetle 1969 Car,Minuwangoda,900000,96750,2025-02-02,https://riyasewana.com/thumb/thumbvolkswagen-beetle-212342610131.jpg,https://riyasewana.com/vehicle/volkswagen-beetle-1969-212342610131.html
+Volkswagen Beetle 1969 Car,Minuwangoda,900000,96750,2025-02-02,https://riyasewana.com/thumb/thumbvolkswagen-beetle-212342610831.jpg,https://riyasewana.com/vehicle/volkswagen-beetle-1969-212342610831.html
+Mitsubishi Colt 1981 Car,Bandaragama,770000,202502,2025-02-02,https://riyasewana.com/thumb/thumbmitsubishi-colt-1981-2830001246186.jpg,https://riyasewana.com/used-cars/mitsubishi-colt-1981-2830001246186.html
+Nissan Sunny B211 1977 Car,Negombo,695000,111,20250201,https://riyasewana.com/thumb/thumbnissan-sunny-b211-1977-120480412551.jpg,https://riyasewana.com/used-cars/nissan-sunny-b211-1977-120480412551.html
+Nissan HB11 1983 Car,Moneragala,775000,185000,20250201,https://riyasewana.com/thumb/thumbnissan-hb-11-1983-120300112621.jpg,https://riyasewana.com/used-cars/nissan-hb11-1983-120300112621.html
+Nissan Sunny B211 1978 Car,Gampaha,565000,2025,20250201,https://riyasewana.com/thumb/thumbnissan-sunny-11453024401.jpg,https://riyasewana.com/used-cars/nissan-sunny-1978-11453024401.html
+Nissan Bluebird 1989 Car,Gampaha,750000,123456,20250201,https://riyasewana.com/thumb/thumbnissan-bluebird-114214422081.jpg,https://riyasewana.com/used-cars/nissan-bluebird-1989-114214422081.html
+Honda Civic Limited Edition 1985 Car,Polonnaruwa,795000,22222,20250201,https://riyasewana.com/thumb/thumbhonda-civic-limited-11321214071.jpg,https://riyasewana.com/used-cars/honda-civic-limited-edition-1985-11321214071.html
+Suzuki Maruti 1985 Car,Eheliyagoda,660000,2025,20250201,https://riyasewana.com/thumb/thumbsuzuki-maruti-1985-112501412851.jpg,https://riyasewana.com/used-cars/suzuki-maruti-1985-112501412851.html
+Nissan SUNNY 1986 Car,Kadawatha,585000,100000,20250201,https://riyasewana.com/thumb/thumbnissan-sunny-11004094761.jpg,https://riyasewana.com/used-cars/nissan-sunny-1986-11004094761.html
+Toyota Corona 1987,Gampaha,1000000,68000,2025-01-31,https://riyasewana.com/thumb/thumbtoyota-corona-1987-3118535512694.jpg,https://riyasewana.com/vehicle/toyota-corona-1987-gampaha-1000000-68000-km-2025-01-31
+Toyota Carina 1987,Kurunegala,950000,,2025-01-31,https://riyasewana.com/thumb/thumbtoyota-careena-311139404711.jpg,https://riyasewana.com/vehicle/toyota-carina-1987-kurunegala-950000-2025-01-31
+Mazda 323 1990,Kelaniya,825000,1283,2025-01-31,https://riyasewana.com/thumb/thumbmazda-323-1990-3110500212791,https://riyasewana.com/vehicle/mazda-323-1990-kelaniya
+Toyota KE72 1985,Kurunegala,550000,239623,2025-02-01,https://riyasewana.com/thumb/thumbtoyota-ke-72-1837574031.jpg,https://riyasewana.com/vehicle/toyota-ke72-1837574031
+Mazda Familia BF 1986,Kotte,750000,243900,2025-02-01,https://riyasewana.com/thumb/thumbmazda-familia-bf-172622441.jpg,https://riyasewana.com/vehicle/mazda-familia-bf-172622441
+Nissan B211 1980,Minuwangoda,510000,2,2025-0111,https://riyasewana.com/thumb/thumbnissan-b211-3120474422111.jpg,https://riyasewana.com/vehicle/nissan-b211-312047442211
+Nissan HB11 1984,Kurunegala,825000,185000,2025-01-30,https://riyasewana.com/thumb/thumbnissan-hb-11-1984-3020444012701.jpg,https://riyasewana.com/car/nissan-hb-11-1984-3020444012701.html
+Isuzu Gemini 1986,Kurunegala,990000,325000,2025-01-30,https://riyasewana.com/thumb/thumbisuz-jemini-302042244031.jpg,https://riyasewana.com/car/isuzu-gemini-1986-302042244031.html
+Mazda Mazda 1985,Matara,500000,11111,2025-01-30,https://riyasewana.com/thumb/thumbmazda-mazda-302028074411.jpg,https://riyasewana.com/car/mazda-mazda-1985-302028074411.html
+Mitsubishi LANCER BOX 1980,Kaduwela,950000,1111111,2025-01-30,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-3019025322782.jpg,https://riyasewana.com/car/mitsubishi-lancer-box-1980-3019025322782.html
+Peugeot 404 1971,Kurunegala,850000,1234,2025-01-30,https://riyasewana.com/thumb/thumbpeugeot-404-1971-3016391112871.jpg,https://riyasewana.com/car/peugeot-404-1971-3016391112871.html
+Mitsubishi Lancer Box 1983,Negombo,980000,20250130,2025-01-30,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1983-3014384412251.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-box-1983-for-sale-in-negombo-3014384412251.html
+Mitsubishi Lancer Box 1980,Gampaha,775000,123456,2025-01-30,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-3013411122441.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-box-1980-for-sale-in-gampaha-3013411122441.html
+Nissan Sunny 1987,Kandy,950000,100999,2025-01-30,https://riyasewana.com/thumb/thumbnissan-nissan-sunny-1987-3013272312981.jpg,https://riyasewana.com/used-cars/nissan-sunny-1987-for-sale-in-kandy-3013272312981.html
+Nissan AD Wagon 1988,Nittambuwa,650000,20250130,2025-01-30,https://riyasewana.com/thumb/thumbnissan-ad-wagon-3012150522561.jpg,https://riyasewana.com/used-cars/nissan-ad-wagon-1988-for-sale-in-nittambuwa-3012150522561.html
+Toyota Corolla 1973,Gampaha,675000,20250130,2025-01-30,https://riyasewana.com/thumb/thumbtoyota-toyota-corolla-301008024991.jpg,https://riyasewana.com/used-cars/toyota-corolla-1973-for-sale-in-gampaha-301008024991.html
+Mazda Demio 2001,Veyangoda,,,,https://riyasewana.com/thumb/thumbmazda-mazda-demio-3093240571.jpg,https://riyasewana.com/used-cars/mazda-demio-2001-for-sale-in-veyangoda-3093240571.html
+Mazda Demio 2001,Veyangoda,,,,https://riyasewana.com/thumb/thumbmazda-mazda-demio-3093240571.jpg,https://riyasewana.com/used-cars/mazda-demio-2001-for-sale-in-veyangoda-3093240571.html
+Suzuki Maruti 1995 Car,Bandaragama,750000,100000,2025-01-29,https://riyasewana.com/thumb/thumbsuzuki-maruti-1995-2917324212061.jpg,https://riyasewana.com/thumb/thumbsuzuki-maruti-1995-2917324212061.jpg
+Mitsubishi Lancer Flat 1978 Car,Kalutara,850000,,2025-01-29,https://riyasewana.com/thumb/thumbmitsubishi-lanser-flattlait-1978-291558551295122.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lanser-flattlait-1978-291558551295122.jpg
+Mitsubishi Colt 1979 Car,Matale,550000,,2025-01-29,https://riyasewana.com/thumb/thumbmitsubishi-colt-1979-2914343512791.jpg,https://riyasewana.com/thumb/thumbmitsubishi-colt-1979-2914343512791.jpg
+Daihatsu Charade G101s 1989 Car,Kandy,800000,,2025-01-29,https://riyasewana.com/thumb/thumbdaihatsu-charade-g101s-291339224621.jpg,https://riyasewana.com/thumb/thumbdaihatsu-charade-g101s-291339224621.jpg
+Mazda Mazda 1985 Car,Matara,500000,111111,2025-01-29,https://riyasewana.com/thumb/thumbmazda-mazda-1291303504481.jpg,https://riyasewana.com/thumb/thumbmazda-mazda-1291303504481.jpg
+Daihatsu Charade G11 1989 Car,Pannala,730000,130000,2025-01-29,https://riyasewana.com/thumb/thumbdaihatsu-charade-g11-1989-2912274812931.jpg,https://riyasewana.com/thumb/thumbdaihatsu-charade-g11-1989-2912274812931.jpg
+Suzuki Alto Sport Rpm Meter 2004 Car,Nittambuwa,785000,140000,2025-01-29,https://riyasewana.com/thumb/thumbsuzuki-alto-sport-291119004541.jpg,https://riyasewana.com/thumb/thumbsuzuki-alto-sport-291119004541.jpg
+Daihatsu Daihatsu 1985 Car,Horana,775000,100,2025-01-28,https://riyasewana.com/thumb/thumbdaihatsu-card-1985-289443612011.jpg,https://riyasewana.com/vehicle/daihatsu-daihatsu-1985-car-289443612011
+Nissan B310 1978 Car,Mirigama,650000,225,2025-01-28,https://riyasewana.com/thumb/thumbnissan-b310-1978-288574312991.jpg,https://riyasewana.com/vehicle/nissan-b310-1978-car-288574312991
+Volvo 740 GLE 1990 Car,Kuliyapitiya,950000,99999,2025-01-28,https://riyasewana.com/thumb/thumbvolvo-740-gle-1990-287441212521.jpg,https://riyasewana.com/vehicle/volvo-740-gle-1990-car-287441212521
+Peugeot 305Gl 1986 Car,Kurunegala,875000,1235,2025-01-27,https://riyasewana.com/thumb/thumbpeugeot-305gl-272219314301.jpg,https://riyasewana.com/vehicle/peugeot-305gl-1986-car-272219314301
+Toyota Ke70 1982 Car,Piliyandala,650000,123456,2025-01-27,https://riyasewana.com/thumb/thumbtoyota-ke70-271936504591.jpg,https://riyasewana.com/vehicle/toyota-ke70-1982-car-271936504591
+Toyota Corona AT 150 1984,Gampaha,775000,20250129,2025-01-29,"https://riyasewana.com/thumb/thumbtoyota-
+corona-at-1984-299594312991.jpg",https://riyasewana.com/toyota-corona-at-1984-gampaha-775000-2025-01-29
+Mitsubishi Lancer Wagon 1977,Colombo,510000,275314,2025-01-29,https://riyasewana.com/thumb/thumbmitsubishi-wagaon-1977-299063212221.jpg,https://riyasewana.com/mitsubishi-lancer-wagon-1977-colombo-510000-275314-km-2025-01-29
+Toyota Dx Wagon 1986,Ratnura,890000,100000,2025-01-28,"https://riyasewana.com/thumb/thumbtoyota-dx-
+vagon-2819460422301.jpg",https://riyasewana.com/toyota-dx-wagon-1986-ratnura-890000-100000-km-2025-01-28
+Toyota Corolla DX Wagon 1983,Matale,840000,20250128,2025-01-28,"https://riyasewana.com/thumb/thumbtoyota-
+corolla-dx-14181614511.jpg",https://riyasewana.com/toyota-corolla-dx-wagon-1983-matale-840000-2025-01-28
+Mitsubishi Lancer Box A172A 1981,Kandy,900000,20250128,2025-01-28,"https://riyasewana.com/thumb/thumbmitsubishi-lancer-
+box-1981-2814094712891.jpg",https://riyasewana.com/mitsubishi-lancer-box-a172a-1981-kandy-900000-2025-01-28
+Mazda 323 1987 Car,Anuradapura,980000,6000,2025-01-26,https://riyasewana.com/thumb/thumbmazda-323-1987-268531412721.jpg,https://riyasewana.com/car/mazda-323-1987
+Toyota Carina AT150 1987 Car,Kurunegala,725000,31258,2025-01-26,https://riyasewana.com/thumb/thumbtoyota-carina-at150-26717094441.jpg,https://riyasewana.com/car/toyota-carina-at150
+Nissan B211 1977 Car,Negombo,695000,111,2025-01-26,https://riyasewana.com/thumb/thumbnissan-nnissan-b211-1977-2520125112381.jpg,https://riyasewana.com/car/nissan-b211
+Nissan HB310 0 Car,Kalutara,515000,31258,2025-01-25,https://riyasewana.com/thumb/thumbnissan-hb310-2516393322811.jpg,https://riyasewana.com/car/nissan-hb310
+Morris Minor 1959 Car,Divulapitiya,675000,80000,2025-01-26,https://riyasewana.com/thumb/thumbmorris-minor-1000-26211344351.jpg,https://riyasewana.com/vehicle/morris-minor-1959-car-divulapitiya-rs-675000-80000-km-2025-01-26
+Nissan Trad Sunny 1987 Car,Dompe,710000,1111,2025-01-26,https://riyasewana.com/thumb/thumbnissan-trad-sunny-2611195117651.jpg,https://riyasewana.com/vehicle/nissan-trad-sunny-1987-dompe-rs-710000-1111-km-2025-01-26
+Suzuki Maruti 1994 Car,Kandy,975000,,,https://riyasewana.com/thumb/thumbsuzuki-3b308800cc-2611091731.jpg,https://riyasewana.com/vehicle/suzuki-maruti-1994-car-kandy-rs-975000
+Suzuki Maruti 1994 Car,Kandy,975000,,,https://riyasewana.com/thumb/thumbsuzuki-3b308800cc-2611091731.jpg,https://riyasewana.com/vehicle/suzuki-maruti-1994-car-kandy-rs-975000
+Mitsubishi Lancer 1983,Ja-Ela,675000,,2025-01-20,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1983-2015123612011.jpg,
+Volkswagen Beetle 1962,Homagama,925000,,2025-01-20,https://riywana.com/thumb/thumbvolkswagen-volkswagen-beetle-20121918321.jpg,
+Austin A30 1952,Kiribathgoda,650000,1750000,2025-01-20,https://riyasewana.com/thumb/thumbaustin-a30-1952-2010395112671.jpg,
+Mitsubishi Lancer Wagon 1977,Moneragala,550000,200000,2025-01-19,https://riyasewana.com/thumb/thumbmitsubishi-ancer-vagan-1977-1918112312431.jpg,
+Datsun B310 1989,Matale,575000,100000,2025-01-19,https://riyasewana.com/thumb/thumbdatsun-b310-1989-1916363212311.jpg,
+Nissan B210 1975,Maharagama,750000,999999,2025-01-19,https://riyasewana.com/thumb/thumbnissan-nissan-b210-1975-1915440412381.jpg,
+Isuzu Gemini 1992 Car,Ampara,750000,145000,2025-01-21,https://riyasewana.com/thumb/thumbisuzu-gemini-21804024591.jpg,https://riyasewana.com/thumb/thumbisuzu-gemini-21804024591.jpg
+Ford Laser 1985 Car,Matara,725000,1548,2025-01-21,https://riyasewana.com/thumb/thumford-laser-1985-217214912921.jpg,https://riyasewana.com/thumb/thumbford-laser-1985-217214912921.jpg
+Toyota Starlet 1985 Car,Kadawatha,975000,50000,2025-01-21,https://riyasewana.com/thumb/thumbtoyota-nstarlet-1985-2021295012551.jpg,https://riyasewana.com/thumb/thumbtoyota-nstarlet-1985-2021295012551.jpg
+Opel Kadett 1984 Car,Wennappuwa,525000,136375,2025-01-20,https://riyasewana.com/thumb/thumbopel-cadatte-1984-2020464212441.jpg,https://riyasewana.com/thumb/thumbopel-cadatte-1984-2020464212441.jpg
+Toyota Starlet 1985 Car,Gampaha,980000,25000,2025-01-20,https://riyasewana.com/thumb/thumbtoyota-nstarlet-1985-2017553512041.jpg,https://riyasewana.com/thumb/thumbtoyota-nstarlet-1985-2017553512041.jpg
+Nissan Hb11 1986 Car,Kurunegala,775000,75000,2025-01-22,"https://riyasewana.com/thumb/thumbnissan-
+hb11-22740454661.jpg","https://riyasewana.com/thumb/thumbnissan-
+hb11-22740454661.jpg"
+Honda City 2000 Car,Kandy,775000,200000,2025-01-21,"https://riyasewana.com/thumb/thumbhonda-
+city-2220200317091.jpg","https://riyasewana.com/thumb/thumbhonda-
+city-2220200317091.jpg"
+Honda Deve 1992 Car,Kuliyapitiya,925000,,2025-01-21,"https://riyasewana.com/thumb/thumbhonda-
+deve-211527314431.jpg","https://riyasewana.com/thumb/thumbhonda-
+deve-211527314431.jpg"
+Nissan HB310 1997 Car,Ratnapura,730000,3559588,2025-01-121,"https://riyasewana.com/thumb/thumbnissan-
+hb310-211408104141.jpg","https://riyasewana.com/thumb/thumbnissan-
+hb310-211408104141.jpg"
+Mitsubishi Lancer Box 1986 Car,Matara,820000,185000,2025-01-21,"https://riyasewana.com/thumb/thumbmitsubishi-
+lancer-box-211301364351.jpg","https://riyasewana.com/thumb/thumbmitsubishi-
+lancer-box-211301364351.jpg"
+Ford PrefeCT-100E1952 Car,Gampaha,,,,"https://riyasewana.com/thumb/thumbford-
+prefect-100e-1952-2110044312461.jpg","https://riyasewana.com/thumb/thumbford-
+prefect-100e-1952-2110044312461.jpg"
+Ford PrefeCT-100E 1952 Car,Gampaha,,,,"https://riyasewana.com/thumb/thumbford-
+prefect-100e-1952-2110044312461.jpg","https://riyasewana.com/thumb/thumbford-
+prefect-100e-1952-2110044312461.jpg"
+Nissan Sunny 1982 Car,Kurunegala,650000,25000,2025-01-19,https://riyasewana.com/thumb/thumbnissan-sunny-1914330822611.jpg,https://riyasewana.com/thumb/thumbnissan-sunny-1914330822611.jpg
+Mitsubishi Lancer 1976 Car,Kesbewa,520000,202500,2025-01-19,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1976-191250012481.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1976-191250012481.jpg
+Isuzu Gemini 1987 Car,Chilaw,520000,200000,2025-01-19,https://riyasewana.com/thumb/thumbisuzu-isuzu-geminy-191239434861.jpg,https://riyasewana.com/thumb/thumbisuzu-isuzu-geminy-191239434861.jpg
+Mitsubishi C12 Hatchback 1985 Car,Bandarawela,870000,231231,2025-01-19,https://riyasewana.com/thumb/thumbmitsubishi-c12-hatchback-1985-1912344612401.jpg,https://riyasewana.com/thumb/thumbmitsubishi-c12-hatchback-1985-1912344612401.jpg
+Datsun B310 1980 Car,Malabe,950000,99652,2025-01-18,https://riyasewana.com/thumb/thumbdatsun-nissan-datsun-1980-1821202512931.jpg,https://riyasewana.com/thumb/thumbdatsun-nissan-datsun-1980-1821202512931.jpg
+Mitsubishi Lancer GLX 1989 Car,Galle,675000,1000000,2025-01-18,https://riyasewana.com/thumb/thumbmitsubishi-lancers-glx-1989-1821174912981.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancers-glx-1989-1821174912981.jpg
+Nissan B11 1986 Car,Kegalle,600000,210000,2025-01-18,https://riyasewana.com/thumb/thumbnissan-b11-1986-1816543212031.jpg,https://riyasewana.com/thumb/thumbnissan-b11-1986-1816543212031.jpg
+Toyota Premio 2017,Kottawa,110000,48000,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-premio-2017-1216300112061.jpg,https://riyasewana.com/vehicle/toyota-premio-2017-1216300112061
+Toyota Passo 2004,Battaramulla,4080000,126000,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-passo-1672754261.jpg,https://riyasewana.com/vehicle/toyota-passo-2004-1672754261
+Toyota Premio 2018,Kurunegala,48000,48000,2025-02-12,https://riyasewana.com/thumb/thumbtoyota-premio-2018-1119573712571.jpg,https://riyasewana.com/vehicle/toyota-premio-2018-1119573712571
+Suzuki Celerio X 2018,Kurunegala,6100000,29000,2025-02-16,https://riyasewana.com/thumb/thumbsuzuki-celerio-x-2018-169583613001.jpg,https://riyasewana.com/vehicle/suzuki-celerio-x-2018-169583613001
+Mitsubishi Galant Sigma 2c 1984,Colombo,620000,100000,2025-01-18,https://riyasewana.com/thumb/thumbmitsubishi-galent-sigma-181610144311.jpg,https://riyasewana.com/thumb/thumbmitsubishi-galent-sigma-181610144311.jpg
+Mitsubishi Lancer 1972,Ratnapura,650000,35000,2025-01-18,https://riyasewana.com/thumb/thumbmitsubishi-lancer-181457544331.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-181457544331.jpg
+Hyundai Accent 2000,Padukka,1000000,260000,2025-01-18,https://riyasewana.com/thumb/thumbhyundai-accent-18142002461.jpg,https://riyasewana.com/thumb/thumbhyundai-accent-18142002461.jpg
+Nissan Sunnu B211 1976,Gampaha,500000,,2025-01-18,https://riyasewana.com/thumb/thumbnissan-sunnu-b211-181313444721.jpg,https://riyasewana.com/thumb/thumbnissan-sunnu-b211-181313444721.jpg
+Mitsubishi Furi 1985,Kandy,550000,,2025-01-18,https://riyasewana.com/thumb/thumbmitsubishi-furi-18113821476114.jpg,https://riyasewana.com/thumb/thumbmitsubishi-furi-18113821476114.jpg
+Nissan B211 1976 Car,Wennappuwa,500000,112500,2025-01-18,https://riyasewana.com/thumb/thumbnissan-b211-1976-1811224312571.jpg,https://riyasewana.com/vehicle/nissan-b211-1976-181122431257
+Toyota Dx Wagon 1983 Car,Kadawatha,530000,40000,2025-01-18,https://riyasewana.com/thumb/thumbtoyota-dx-wagon-181122384111.jpg,https://riyasewana.com/vehicle/toyota-dx-wagon-1983-181122384111
+Mitsubishi Galant 1983 Car,Hanwella,500000,200000,2025-01-18,https://riyasewana.com/thumb/thumbmitsubishi-galant-181044414431.jpg,https://riyasewana.com/vehicle/mitsubishi-galant-1983-181044414431
+Toyota C 78 1984 Car,Colombo,975000,125000,2025-01-18,https://riyasewana.com/thumb/thumbtoyota-c-78-18102557441.jpg,https://riyasewana.com/vehicle/toyota-c-78-1984-18102557441
+Mitsubishi Lancer Box 1980 Car,Kurunegala,780000,0,2025-01-18,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1980-187335912381.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-1980-187335912381
+Daihatsu Charade 1987 Car,Kaduwela,550000,1,2025-01-17,"https://riyasewana.com/thumb/thumbdaihatsu-charade-
+daihatsu-17205957241.jpg",https://riyasewana.com/vehicle/daihatsu-charade-1987-car-17205957241.html
+Nissan Sunny B211 1977 Car,Negombo,685000,1111,2025-01-17,"https://riyasewana.com/thumb/thumbnissan-
+sunny-b211-1977-1720215612361.jpg",https://riyasewana.com/vehicle/nissan-sunny-b211-1977-car-1720215612361.html
+Toyota Corolla KE20 Deluxe Edition 1972 Car,Piliyandala,725000,200000,2025-01-17,"https://riyasewana.com/thumb/thumbtoyota-corolla-
+ke20-1972-1718461712751.jpg",https://riyasewana.com/vehicle/toyota-corolla-ke20-deluxe-edition-1972-car-1718461712751.html
+Mitsubishi Lancer Box 1982 Car,Kurunegala,995000,,2025-01-17,"https://riyasewana.com/thumb/thumbmitsubishi-
+lancer-box-1718363417181.jpg",https://riyasewana.com/vehicle/mitsubishi-lancer-box-1982-car-1718363417181.html
+Nissan FB14 1995 Car,Panadura,,,,"https://riyasewana.com/thumb/thumbnissan-
+fb-14-1995-1713041612631.jpg",https://riyasewana.com/vehicle/nissan-fb14-1995-car-1713041612631.html
+Nissan FB14 1995 Car,Panadura,,,,"https://riyasewana.com/thumb/thumbnissan-
+fb-14-1995-1713041612631.jpg",https://riyasewana.com/vehicle/nissan-fb14-1995-car-1713041612631.html
+Toyota DX 72 1985,Kegalle,675000,258392,2025-01-17,https://riyasewana.com/thumb/thumbtoyota-dx-72-1985-17116312661.jpg,https://riyasewana.com/vehicle/toyota-dx-72-1985-17116312661.html
+Toyota Corolla Dx Ke72 1986,Kottawa,840000,200000,2025-01-17,https://riyasewana.com/thumb/thumbno_100.jpg,https://riyasewana.com/vehicle/toyota-corolla-dx-ke72-1986-17116312661.html
+Morris Minor 1957,Pannipitiya,900000,35000,2025-01-16,https://riyasewana.com/thumb/thumbmorris-minor-1957-1621224312111.jpg,https://riyasewana.com/vehicle/morris-minor-1957-1621224312111.html
+Audi A4 1.9 TDI 2001,Kotte,500000,,2025-01-16,https://riyasewana.com/thumb/thumbaudi-a4-1-9-161922234981.jpg,https://riyasewana.com/vehicle/audi-a4-1-9-tdi-2001-161922234981.html
+Toyota Corolla AE80 1986,Embilipitiya,895000,350000,2025-01-15,https://riyasewana.com/thumb/thumbtoyota-corolla-ae80-1521184517941.jpg,https://riyasewana.com/thumb/thumbtoyota-corolla-ae80-1521184517941.jpg
+Nissan B11 1983,Mahiyanganaya,550000,90000,2025-01-15,https://riyasewana.com/thumb/thumbnissan-b11-152038244491.jpg,https://riyasewana.com/thumb/thumbnissan-b11-152038244491.jpg
+Honda Civic 1985,Gampola,775000,100000,2025-01-15,https://riyasewana.com/thumb/thumbhonda-honda-civic-1985-1520023312571.jpg,https://riyasewana.com/thumb/thumbhonda-civic-1520023312571
+Nissan Sunny HB11 1985,Gampaha,615000,240000,2025-01-15,https://riyasewana.com/thumb/thumbnissan-sunny-hb-15122408211.jpg,https://riyasewana.com/thumb/thumbnissan-sunny-hb-15122408211.jpg
+Honda Civic 1985,Wennappuwa,850000,28500,1985-01-15,https://riyasewana.com/thumb/thumbhonda-civic-151212325001.jpg,https://riyasewana.com/thumb/thumbhonda-civic-151212325001.jpg
+Datsun Sunny 1978 Car,Ja-Ela,1000000,180523,2025-01-16,https://riyasewana.com/thumb/thumbdatsun-sunny-161830014501.jpg,https://riyasewana.com/vehicle/datsun-sunny-1978-car-ja-ela-161830014501
+Suzuki Maruti 800 1993 Car,Hatton,875000,50000,2025-01-16,https://riyasewana.com/thumb/thumbsuzuki-maruty-800-161704484631.jpg,https://riyasewana.com/vehicle/suzuki-maruti-800-1993-car-hatton-161704484631
+Nissan K10 1989 Car,Horana,975000,,2025-01-16,https://riyasewana.com/thumb/thumbnissan-k10-16122706458170.jpg,https://riyasewana.com/vehicle/nissan-k10-1989-car-horana-16122706458170
+Nissan B211 0 Car,Kurunegala,650000,,2025-01-16,https://riyasewana.com/thumb/thumbnissan-b211-1611533822731.jpg,https://riyasewana.com/vehicle/nissan-b211-0-car-kurunegala-1611533822731
+Toyota K20 1974 Car,Gampola,600000,225000,2025-01-16,https://riyasewana.com/thumb/thumbtoyota-k20-1974-168470412841.jpg,https://riyasewana.com/vehicle/toyota-k20-1974-car-gampola-168470412841
+Toyota Carina 1985,Kalutara,750000,,2025-01-15,https://riyasewana.com/thumb/thumbtoyota-carina-1985-1511455512841.jpg,https://riyasewana.com/vehicle/toyota-carina-1985-kalutara-1511455512841
+Toyota Corolla 81 1985,Divulapitiya,620000,150000,2025-01-15,https://riyasewana.com/thumb/thumbtoyota-corolla-81-15104231761.jpg,https://riyasewana.com/vehicle/toyota-corolla-81-1985-divulapitiya-15104231761
+Nissan Hb11 1985,Hanwella,830000,1234,2025-01-15,https://riyasewana.com/thumb/thumbnissan-hb11-151038314941.jpg,https://riyasewana.com/vehicle/nissan-hb11-1985-hanwella-151038314941
+Nissan Presea 1997,Ja-Ela,800000,102546,2025-01-15,https://riyasewana.com/thumb/thumbnissan-presea-15102852931.jpg,https://riyasewana.com/vehicle/nissan-presea-1997-ja-ela-15102852931
+Mitsubishi Celeste 1978,Kandy,500000,,2025-01-15,https://riyasewana.com/thumb/thumbmitsubishi-celeste-15931574641.jpg,https://riyasewana.com/vehicle/mitsubishi-celeste-1978-kandy-15931574641
+Mitsubishi Mitsubishi 2005 Car,Kurunegala,695000,94646,2025-01-15,https://riyasewana.com/thumb/thumbmitsubishi-nissane-15623114351.jpg,https://riyasewana.com/vehicle/mitsubishi-nissane-15623114351
+Toyota Dx Wagon 1982 Car,Colombo,500000,225000,2025-01-15,https://riyasewana.com/thumb/thumbtoyota-dx-wagon-153302422761.jpg,https://riyasewana.com/vehicle/toyota-dx-wagon-153302422761
+Mitsubishi Lancer Box 1980 Car,Kalutara,750000,123456489,2025-01-14,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1422480922281.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-1422480922281
+Nissan March K10 1988 Car,Ambalangoda,650000,1000,2025-01-14,https://riyasewana.com/thumb/thumbnissan-march-k10-1419245417941.jpg,https://riyasewana.com/vehicle/nissan-march-k10-1419245417941
+Toyota Corolla KE50 1976 Car,Matara,700000,,2025-01-14,https://riyasewana.com/thumb/thumbtoyota-corolla-ke50-141913454921.jpg,https://riyasewana.com/vehicle/toyota-corolla-ke50-141913454921
+Daihatsu Charade G100S 1987 Car,Embilipitiya,995000,50000,2025-01-14,https://riyasewana.com/thumb/thumbdaihatsu-charade-g100s-141820584711.jpg,https://riyasewana.com/vehicle/daihatsu-charade-g100s-141820584711
+Suzuki Spacia Custom 2018,Colombo,8300000,60627,2025-02-02,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-27183922581.jpg,https://riyasewana.com/vehicle/suzuki-spacia-custom-2000000-2018-02-02-1517481111111.html
+Toyota GLI 141 Corolla 2012,Colombo,,128000,2025-02-16,https://riyasewana.com/thumb/thumbtoyota-gli-141-151453584911.jpg,https://riyasewana.com/vehicle/toyota-gli-141-corolla-2012-02-16-151453584911.html
+Toyota Premio G Superior 2018,Dehiwala-Mount-Lavinia,18250000,27550,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-premio-g-2018-1422074012411.jpg,https://riyasewana.com/vehicle/toyota-premio-g-superior-2018-02-15-1422074012411.html
+Toyota Premio 2017,Kottawa,,110000,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-premio-2017-1216300112061.jpg,https://riyasewana.com/vehicle/toyota-premio-2017-02-15-1216300112061.html
+Mitsubishi Lancer Box,Gampaha,625000,56394,2025-01-13,https://riyasewana.com/thumb/thumbmitsubishi-lanser-box-1311250922661.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-1985-gampaha-1311250922661
+Toyota Corolla KE50,Matale,610000,65000,2025-01-13,https://riyasewana.com/thumb/thumbtoyota-corolla-ke-4160602321.jpg,https://riyasewana.com/vehicle/toyota-corolla-ke50-1977-matale-4160602321
+Daihatsu Charade,Balangoda,500000,123456,2025-01-13,https://riyasewana.com/thumb/thumbdaihatsu-charade-1989-137424312041.jpg,https://riyasewana.com/vehicle/daihatsu-charade-1989-balangoda-137424312041
+Mitsubishi Lancer,Matara,825000,186523,2025-01-12,https://riyasewana.com/thumb/thumbmitsubishi-lancer-1983-1221553612231.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-1983-matara-1221553612231
+Toyota Corolla Ke72,Minuwangoda,795000,20250112,2025-01-12,https://riyasewana.com/thumb/thumbtoyota-corolla-ke72-1984-1214431012671.jpg,https://riyasewana.com/vehicle/toyota-corolla-ke72-1984-minuwangoda-1214431012671
+Nissan B11 1987,Maharagama,1000000,379400,2025-01-12,https://riyasewana.com/thumb/thumbnissan-b11-121305522161.jpg,https://riyasewana.com/cars/price-500000-1000000/page13
+Nissan SUNNY 1983,Kadawatha,635000,100000,2025-01-12,https://riyasewana.com/thumb/thumbnissan-sunny-121219414771.jpg,https://riyasewana.com/cars/price-500000-1000000/page13
+Peugeot 504 L 1976,Kalutara,950000,2022,2025-01-12,https://riyasewana.com/thumb/thumbpeugeot-peugeot-504-1976-1211065112141.jpg,https://riyasewana.com/cars/price-500000-1000000/page13
+Toyota DX Wagon 1983,Matara,700000,1100,2025-01-12,https://riyasewana.com/thumb/thumbtoyota-dx-wagon-1983-129090312051.jpg,https://riyasewana.com/cars/price-500000-1000000/page13
+Daihatsu Charade 1989,Balangoda,845000,2222,2025-01-12,https://riyasewana.com/thumb/thumbdaihatsu-charade-1989-127142912851.jpg,https://riyasewana.com/cars/price-500000-1000000/page13
+Daihatsu Charade 1989,Balangoda,845000,2222,2025-01-12,https://riyasewana.com/thumb/thumbdaihatsu-charade-1989-127142912851.jpg,https://riyasewana.com/cars/price-500000-1000000/page13
+Daihatsu Charade 1985 Car,Kandy,565000,165000,2025-01-14,https://riyasewana.com/thumb/thumbdaihatsu-charade-14165901611.jpg,https://riyasewana.com/vehicle/daihatsu-charade-1985-1416590161
+Mitsubishi Lancer Box 1980 Car,Ratnapura,565000,500000,2025-01-14,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1413534622731.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-1980-1413534622
+Mitsubishi Lancer Box 1981 Car,Ambalangoda,660000,2025,2025-01-14,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1981-1410510013001.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-1981-1410510013
+Toyota AA60 1986 Car,Gampaha,675000,68523,2025-01-14,https://riyasewana.com/thumb/thumbtoyota-toyota--aa60-1475151493187.jpg,https://riyasewana.com/vehicle/toyota-aa60-1986-1475151493
+Mitsubishi Lancer 1978 Car,Bandaragama,575000,55000,2025-01-13,https://riyasewana.com/thumb/thumbmitsubishi-lanser-131658034991.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-1978-1316580349
+Toyota Corolla 1984 Car,,,,2025-01-13,https://riyasewana.com/thumb/thumbtoyota-ds-wagon-131247004751.jpg,https://riyasewana.com/vehicle/toyota-corolla-1984-1312470047
+Toyota Corolla 1984 Car,,,,2025-01-13,https://riyasewana.com/thumb/thumbtoyota-ds-wagon-131247004751.jpg,https://riyasewana.com/vehicle/toyota-corolla-1984-1312470047
+Mitsubishi C12v 1985 Car,Kandy,1000000,9999,2025-01-11,https://riyasewana.com/thumb/thumbmitsubishi-c12v-1985-111130261291145.jpg,<https://riyasewana.com/vehicle/mitsubishi-c12v-1985-111130261291145.html>
+Toyota Corolla KE 74 1985 Car,Kottawa,700000,156000,2025-01-11,https://riyasewana.com/thumb/thumbtoyota-ke-74-111030384671.jpg,<https://riyasewana.com/vehicle/toyota-corolla-ke-74-11103038467.html>
+Toyota AA60 1982 Car,Matugama,650000,1500,2025-01-10,https://riyasewana.com/thumb/thumbtoyota-aa60-102338054531.jpg,https://riyasewana.com/vehicle/toyota-aa60-1982-car-102338054531
+Toyota KE72 1988 Car,Wennappuwa,880000,0,2025-01-10,https://riyasewana.com/thumb/thumbtoyota-ke-72-10150830500217.jpg,https://riyasewana.com/vehicle/toyota-ke72-1988-car-10150830500217
+Fiat Uno 60 1987 Car,Kottawa,775000,77500,2025-01-10,https://riyasewana.com/thumb/thumbfiat-uno-60-101136454531.jpg,https://riyasewana.com/vehicle/fiat-uno-60-1987-car-101136454531
+Daihatsu Charade 1980 Car,Kurunegala,635000,100000,2025-01-10,https://riyasewana.com/thumb/thumbhatsu-charade-108474641.jpg,https://riyasewana.com/vehicle/daihatsu-charade-1980-car-108474641
+Toyota Wagon 1990 Car,Horana,79500,1111,2025-01-09,https://riyasewana.com/thumb/thumbtoyota-wagon-1990-920555112161.jpg,https://riyasewana.com/vehicle/toyota-wagon-1990-car-920555112161
+Mitsubishi Galant 1983 Car,Pannala,,,,https://riyasewana.com/thumb/thumbmitsubishi-galant-1983-917562612641.jpg,https://riyasewana.com/vehicle/mitsubishi-galant-1983-car-917562612641
+Mitsubishi Galant 1983 Car,Pannala,,,,https://riyasewana.com/thumb/thumbmitsubishi-galant-1983-917562612641.jpg,https://riyasewana.com/vehicle/mitsubishi-galant-1983-car-917562612641
+Toyota Corolla DX Wagon,Horana,650000,347723,2025-01-09,https://riyasewana.com/thumb/thumbtoyota-corolla-dx-9151318321.jpg,https://riyasewana.com/vehicle/toyota-corolla-dx-wagon-1984-horana-13
+Ford Laser,Ragama,750000,31585,2025-01-08,https://riyasewana.com/thumb/thumbford-ford-laser-81434414721.jpg,https://riyasewana.com/vehicle/ford-laser-1984-ragama-13
+Mazda Demio,Kadawatha,875000,123,2025-01-08,https://riyasewana.com/thumb/thumbmazda-demio-811245622421.jpg,https://riyasewana.com/vehicle/mazda-demio-2004-kadawatha-13
+Toyota Premio G Superior 2018,Dehiwala-Mount-Lavinia,18250000,27550,2025-02-15,https://riyasewana.com/thumb/thumbtoyota-premio-g-2018-1422074012411.jpg,https://riyasewana.com/vehicle/toyota-premio-g-superior-2018-1422074012411
+Suzuki Spacia Custom 2018,Colombo,8300000,60627,2025-02-02,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-27183922581.jpg,https://riyasewana.com/vehicle/suzuki-spacia-custom-2018-27183922581
+Suzuki Celerio X 2018,Kurunegala,6100000,29000,2025-02-16,https://riyasewana.com/thumb/thumbsuzuki-celerio-x-2018-169583613001.jpg,https://riyasewana.com/vehicle/suzuki-celerio-x-2018-169583613001
+Toyota Axio G Grade 2008,Panadura,,,,https://riyasewana.com/thumb/thumbtoyota-axio-g-2008-1815195612411.jpg,https://riyasewana.com/vehicle/toyota-axio-g-grade-2008-1815195612411
+Toyota KE20 1979 Car,Kegalle,520000,137000,2025-02-13,https://riyasewana.com/thumb/thumbtoyota-ke20-72155154011.jpg,https://riyasewana.com/vehicle/toyota-ke20-1979-car-125000-km-kegalle-72155154011.html
+Nissan B11 1983 Car,Anuradapura,645000,100058,2025-01-07,https://riyasewana.com/thumb/thumbnissan-b11-96312417871.jpg,https://riyasewana.com/vehicle/nissan-b11-1983-car-100058-km-anuradapura-96312417871.html
+Toyota Avanza 2011 Car,Anuradapura,617500,167000,2025-01-07,https://riyasewana.com/thumb/thumbmazda-avansa-71509414721.jpg,https://riyasewana.com/vehicle/toyota-avanza-2011-car-167000-km-anuradapura-71509414721.html
+Toyota Corolla Dx Wagon KE72 1983 Car,Malabe,550000,160000,2025-01-07,https://riyasewana.com/thumb/thumbtoyota-toyota-corolla-1983-714300212131.jpg,https://riyasewana.com/vehicle/toyota-corolla-dx-wagon-ke72-1983-car-160000-km-malabe-714300212131.html
+Mitsubishi Lancer Wagon 1977,Nittambuwa,925000,254000,2025-01-07,https://riyasewana.com/thumb/thumbmitsubishi-lancer-wagon-1977-711371512831.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-wagon-1977-711371512831
+Nissan B310 1980,Ratnapura,780000,308393,2025-01-07,https://riyasewana.com/thumb/thumbnissan-b310-712244311.jpg,https://riyasewana.com/vehicle/nissan-b310-712244311
+Mitsubishi Lancer C12 1987,Gampola,960000,219605,2025-01-06,https://riyasewana.com/thumb/thumbmitsubishi-lancer-c12-1987-620005012111.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-c12-1987-620005012111
+Nissan K10 1985,Kiribathgoda,975000,2025,2025-01-06,https://riyasewana.com/thumb/thumbnissan-k-10-61837514301.jpg,https://riyasewana.com/vehicle/nissan-k-10-61837514301
+Nissan B211 1977,Negombo,695000,1111,2025-01-06,https://riyasewana.com/thumb/thumbnissan-b211-615405317771.jpg,https://riyasewana.com/vehicle/nissan-b211-615405317771
+Mitsubishi Lancer Box 1981 Car,Ratnapura,950000,22,2025-01-07,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1981-713464712351.jpg,https://riyasewana.com/used-cars/mitsubishi-lancer-box-1981-ratnapura-713464712351.html
+Peugeot 504 1983 Car,Kottawa,875000,123456,2025-01-07,https://riyasewana.com/thumb/thumbpeugeot-504-71337234321.jpg,https://riyasewana.com/used-cars/peugeot-504-1983-kottawa-71337234321.html
+Toyota Dx Wagon KE72 1984 Car,Kegalle,975000,237790,2025-01-07,https://riyasewana.com/thumb/thumbtoyota-dx-wagon-1984-12051312691.jpg,https://riyasewana.com/used-cars/toyota-dx-wagon-ke72-1984-kegalle-12051312691.html
+Tata Nano 2011 Car,Battaramulla,1000000,2025,2025-01-07,https://riyasewana.com/thumb/thumbtata-nano-2011-7115538129388.jpg,https://riyasewana.com/used-cars/tata-nano-2011-battaramulla-7115538129388.html
+Nissan B211 1979 Car,Matugama,530000,100000,2025-01-07,https://riyasewana.com/thumb/thumbnissan-b211-1979-711384112811.jpg,https://riyasewana.com/used-cars/nissan-b211-1979-matugama-711384112811.html
+Toyota DX Wagon,Gampaha,595000,74000,2025-01-05,https://riyasewana.comthumb/thumbtoyota-dx-wagon-51559274981.jpg,https://riyasewana.com/vehicle/toyota-dx-wagon-1987-51559274981.html
+Nissan B11,Kandy,700000,100000,2025-01-05,https://riyasewana.com/thumb/thumbnissan-b11-51443314571.jpg,https://riyasewana.com/vehicle/nissan-b11-1983-51443314571.html
+Toyota Corolla KE20,Wattala,800000,150000,2025-01-05,https://riyasewana.com/thumb/thumbtoyota-corolla-ke20-1973-512481712941.jpg,https://riyasewana.com/vehicle/toyota-corolla-ke20-1973-512481712941.html
+Toyota COROLLA DX WAGON KE72,DX WAGON KE72,750000,150000,2025-01-05,https://riyasewana.com/thumb/thumbtoyota-corolla-dx-512462022801.jpg,https://riyasewana.com/vehicle/toyota-corolla-dx-ke72-1987-512462022801.html
+Nissan Sunny B11 1983 Car,Gampaha,510000,90000,2025-01-06,https://yasewana.com/thumb/thumbnissan-sunny-b11-1983-6923251206.jpg,https://yasewana.com/thumb/thumbnissan-sunny-b11-1983-69232512061.jpg
+Suzuki Spacia Custom 2016 Car,Hikkaduwa,680000,80000,2025-01-05,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-52240264451.jpg,https://riyasewana.com/thumb/thumbsuzuki-spacia-custom-52240264451.jpg
+Mitsubishi LANCER L LIGHT 1996 Car,Nittambuwa,630000,32000,2025-01-05,https://riyasewana.com/thumb/thumbmitsubishi-lancer-l-1996-522245512711.jpg,https://riyasewana.com/thumb/thumbmitsubishi-lancer-l-1996-522245512711.jpg
+Honda Integra 1987 Car,Puttalam,850000,100000,2025-01-05,https://riyasewana.com/thumb/thumbhonda-intergra-52115314311.jpg,https://riyasewana.com/thumb/thumbhonda-intergra-52115314311.jpg
+Datsun B310 1978 Car,Kolonnawa,,,2025-01-05,https://riyasewana.com/thumb/thumbdatsun-b310-5195200531.jpg,https://riyasewana.com/thumb/thumbdatsun-b310-5195200531.jpg
+Datsun B310 1978 Car,Kolonnawa,,,2025-01-05,https://riyasewana.com/thumb/thumbdatsun-b310-5195200531.jpg,https://riyasewana.com/thumb/thumbdatsun-b310-5195200531.jpg
+Nissan HN 12 1989,Kesbewa,600000,80000,2005-01-04,https://riyasewana.com/thumb/thumbnissan-hn-12-1989-423335912701.jpg,https://riyasewana.com/vehicle/nissan-hn-12-1989-423335912701.html
+Peugeot 505 1986,Panadura,950000,1,2025-01-04,https://riyasewana.com/thumb/thumbpeugeot-505-1986-421491412921.jpg,https://riyasewana.com/vehicle/peugeot-505-1986-421491412921.html
+Nissan B11 1983,Kandy,700000,80000,2025-01-04,https://riyasewana.com/thumb/thumbnissan-b11-42031204891.jpg,https://riyasewana.com/vehicle/nissan-b11-1983-42031204891.html
+Isuzu Gemini 1988,Minuwangoda,850000,100000,2025-01-04,https://riyasewana.com/thumb/thumbisuzu-gemini-4162732541.jpg,https://riyasewana.com/vehicle/isuzu-gemini-1988-4162732541.html
+Mitsubishi Lancer 1949,Matale,550000,1,2025-01-04,https://riyasewana.com/thumb/thumbmitsubishi--41211094191.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-1949-41211094191.html
+Mitsubishi Lancer,Hambantota,940000,261000,2025-01-05,https://riyasewana.com/thumb/thumbmitsubishi-lancer-5122106391.jpg,<url>https://riyasewana.com/used-cars/mitsubishi-lancer-1985-hambantota-940000-261000-km-2025-01-05</url>
+Mitsubishi Lancer,Kandy,900000,175000,2025-01-05,https://riyasewana.com/thumb/thumbmitsubishi-lancer-41011148846.jpg,<url>https://riyasewana.com/used-cars/mitsubishi-lancer-1981-kandy-900000-175000-km-2025-01-05</url>
+Nissan Bluebird Ru11,Colombo,890000,213000,2025-01-05,https://riyasewana.com/thumb/thumbnissan-nissan-blubrid-57110922531.jpg,<url>https://riyasewana.com/used-cars/nissan-bluebird-ru11-1985-colombo-890000-213000-km-2025-01-05</url>
+Tata Indica,Kegalle,580000,58000,2025-01-05,https://riyasewana.com/thumb/thumbtata-indica-4235209251.jpg,<url>https://riyasewana.com/used-cars/tata-indica-2004-kegalle-580000-58000-km-2025-01-05</url>
+Toyota Ke50 1976 Car,Ratnapura,780000,,2025-01-04,https://riyasewana.com/thumb/toyota-ke50-1976-412062612291.jpg,https://riyasewana.com/vehicle/toyota-ke50-1976-412062612291
+Mitsubishi Lancer Box 1980 Car,Horana,950000,86000,2025-01-04,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1980-48461512951.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-1980-48461512951
+Mitsubishi Lancer Box 1980 Car,Moneragala,870000,200000,2025-01-04,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-4744174101.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-4744174101
+Mitsubishi Lancer Box 1982 Car,Welimada,625000,100000,2025-01-03,https://riyasewana.com/thumb/thumbmitsubishi-lancer-box-1982-321281512951.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-box-1982-321281512951
+Suzuki Suzuki 1988 Car,Am,650000,,2025-01-03,https://riyasewana.com/thumb/thumbsuzuki-na-31636544301.jpg,https://riyasewana.com/vehicle/suzuki-suzuki-31636544301
+Mitsubishi Lancer ASP 1991 Car,Piliyandala,1000000,159000,2025-01-03,https://riyasewana.com/thumb/thumbmitsubishi-lancer-asp-3155654621.jpg,https://riyasewana.com/vehicle/mitsubishi-lancer-asp-3155654621
+Toyota Premio 2017,Kottawa,110000,110000,2025-02-15,"https://riyasewana.com/thumb/thumbtoyota-
+premio-2017-1216300112061.jpg",https://riyasewana.com/images/top-f.png
+Daihatsu Mira 2016,Piliyandala,Negotiable,81100,2025-02-14,"https://riyasewana.com/thumbdaihatsu-
+mira-141212541.jpg",https://riyasewana.com/images/top-f.png
+Suzuki Swift RS Turbo Safety 2019,Colombo,9440000,52000,2025-02-14,https://riyasewana.com/thumb/thumbsuzuki-swift-rs-1423393417411.jpg,https://riyasewana.com/images/top-f.png
+Suzuki Wagon R Stingray,Kandana,985000,94000,2024-12-29,"https://riyasewana.com/thumb/thumbsuzuki-
+wagonr-stingray-2015-2913145112471.jpg",https://riyasewana.com/car/suzuki-wagon-r-stingray-2015-15112471
+Nissan B211,Horana,590000,240000,2024-12-29,https://riyasewana.com/thumb/thumbnissan-b211-1979-2910343112671.jpg,https://riyasewana.com/car/nissan-b211-1979-15112671
+Volvo 850,Embilipitiya,975000,200500,2024-12-29,https://riyasewana.com/thumb/thumbvolvo-850-1996-2910302812581.jpg,https://riyasewana.com/car/volvo-850-1996-1510302812581
+Fiat 127,Kurunegala,800000,250000,2024-12-28,https://riyasewana.com/thumb/thumbfiat-127-282348524481.jpg,https://riyasewana.com/car/fiat-127-1980-152348524481
+Toyota Carina AA60,Nittambuwa,975000,301307,2024-12-28,"https://riyasewana.com/thumb/thumbtoyota-carina-
+aa60-1984-281938311291.jpg",https://riyasewana.com/car/toyota-carina-aa60-1984-151938311291
+Mazda Demio,Kadawatha,875000,1234,2024-12-28,"https://riyasewana.com/thumb/thumbmazda-
+demio-2005-2817030612171.jpg",https://riyasewana.com/car/mazda-demio-2005-1517030612171
+Toyota DX Wagon KE72,Horana,760000,52345678,2024-12-28,"https://riyasewana.com/thumb/thumbtoyota-dx-
+wagon-1984-2811175112361.jpg",https://riyasewana.com/car/toyota-dx-wagon-ke72-1984-1511175112361
+Toyota COROLLA 121 X 2003 Car,Divulapitiya,580000,14000,2024-12-24,"https://riyasewana.com/thumb/thumbtoyota-
+corolla-121-2416270924631.jpg",https://riyasewana.com/used-cars/toyota-corolla-121-x-2003-car-for-sale-in-divulapitiya-sri-lanka-riyasewana-com-2416270924631.html
+Nissan March B11 1986,Nugegoda,925000,55000,2024-12-19,"https://riyasewana.com/thumb/thumbnissan-
+march-b-11-1923105912521.jpg","https://riyasewana.com/thumb/thumbnissan-
+march-b-11-1923105912521.jpg"
+Nissan B211 1977,Anuradapura,690000,326200,2024-12-19,https://riyasewana.com/thumb/thumbnissan-b211-1977-1921434912631.jpg,https://riyasewana.com/thumb/thumbnissan-b211-1977-1921434912631.jpg
+Toyota Carina 1985,Mirigama,675000,190000,2024-12-19,"https://riyasewana.com/thumb/thumbtoyota-
+carina-1985-1920381312431.jpg","https://riyasewana.com/thumb/thumbtoyota-
+carina-1985-1920381312431.jpg"
+Daihatsu Charade 1986 Car,Horana,900000,1111,2024-12-15,"https://riyasewana.com/thumb/thumbdaihatsu-
+charade-1986-15230045512821.jpg",https://riyasewana.com/car/daihatsu-charade-1986-15230045512821.jpg
+Nissan HB310 1979 Car,Divulapitiya,825000,1234,2024-12-15,"https://riyasewana.com/thumb/thumbnissan-
+hb-310-1522253912231.jpg",https://riyasewana.com/car/nissan-hb310-1979-1522253912231.jpg
+Ford Laser GL Sedan 1991 Car,Horana,980000,200000,2024-12-15,"https://riyasewana.com/thumb/thumbford-ford-
+laser-1991-1521314412261.jpg",https://riyasewana.com/car/ford-laser-1991-1521314412261.jpg
+Nissan Sunny B11 1983 Car,Moratuwa,985000,199000,2024-12-15,https://riyasewana.com/thumb/thumbno_00.jpg,https://riyasewana.com/car/nissan-sunny-b11-1983-15200.jpg
+Mitsubishi Lancer Wagon 1980 Car,Colombo,680000,260000,2024-12-13,"https://riyasewana.com/thumb/thumbmitsubishi-lancer-
+wagon-1980-1321354712291.jpg",https://riyasewana.com/used-cars/mitsubishi-lancer-wagon-1980-1321354712291
+Toyota Corolla 1984 Car,Ratnapura,850000,230000,2024-12-13,"https://riyasewana.com/thumb/thumbtoyota-
+corolla-13155411581.jpg",https://riyasewana.com/used-cars/toyota-corolla-1984-13155411581
+Fiat Uno 1988 Car,Welimada,690000,2226500,2024-12-13,"https://riyasewana.com/thumb/thumbfiat-
+uno-131415094451.jpg",https://riyasewana.com/used-cars/fiat-uno-1988-131415094451
