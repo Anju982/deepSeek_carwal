@@ -1,4 +1,4 @@
-BASE_URL = "https://riyasewana.com/search/cars/price-500000-1000000"
+BASE_URL = "https://riyasewana.com/search/cars/price-6000000-9000000"
 CSS_SELECTOR = "li.item"
 REQUIRED_KEYS = [
     "name",
@@ -7,5 +7,4 @@ REQUIRED_KEYS = [
     "mileage",
     "date",
     "image_url",
-    "listing_url",
 ]

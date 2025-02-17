@@ -4,7 +4,7 @@ from crawl4ai import AsyncWebCrawler
 from dotenv import load_dotenv
 
 from config import BASE_URL, CSS_SELECTOR, REQUIRED_KEYS
-from utils.data_utils import save_venue_to_csv
+from utils.data_utils import save_venue_to_csv, save_to_db
 
 from utils.scraper_utils import fetch_and_process_page, get_browser_config, get_llm_strategy
 
@@ -45,11 +45,11 @@ async def crawl_venues():
             
             all_venues.extend(venues)
             page_number += 1
-            
             await asyncio.sleep(3)
             
         if all_venues:
             save_venue_to_csv(all_venues, "complete_add_details.csv")
+            save_to_db(all_venues)
             print(f"Saved {len(all_venues)} vehciles to CSV.")
             
         else:

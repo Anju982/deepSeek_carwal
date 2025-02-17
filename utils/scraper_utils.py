@@ -15,7 +15,8 @@ def get_browser_config() -> BrowserConfig:
         headless=True,
         verbose=True,
         text_mode=True,
-        light_mode=True
+        light_mode=True,
+        proxy="http://localhost:8080"
     )
     
 def get_llm_strategy() -> LLMExtractionStrategy:
@@ -27,20 +28,34 @@ def get_llm_strategy() -> LLMExtractionStrategy:
         instruction=(
             "Extract all car listings with the following attributes:\n"
             "- 'name': The car's make and model.\n"
+            "- 'maker': The manufacturer of the car (e.g., Toyota, Honda).\n"
+            "- 'model': The specific model name (e.g., Corolla, Civic).\n"
+            "- 'year': The manufacturing year of the car.\n"
             "- 'location': The city or town where the car is listed.\n"
             "- 'price': The listed price of the car.\n"
             "- 'mileage': The number of kilometers driven.\n"
             "- 'date': The date of the listing.\n"
+            "- 'image_url': The URL of the car's thumbnail image.\n"
+            "- 'listing_url': The URL of the detailed listing page."
         ),
         input_format="markdown",
         verbose=True,
         chunk_token_threshold=100,
         overlap_rate=0.1,
         apply_chunking=True,
-        #extra_args={
-            #"max_tokens": 6000,
-            #temperature": 0.1,
-        #}
+        extra_args={
+            "max_retries": 3,  # Add retry logic
+            "retry_delay": 2,  # Delay between retries in seconds
+            "timeout": 30,     # Request timeout in seconds
+            "fallback_providers": [  # Fallback providers if primary fails
+                {
+                    "provider": "groq/deepseek-r1-distill-llama-70b",
+                    "api_token": os.getenv("groq_api_key")
+                }
+            ],
+            "max_tokens": 6000,
+            "temperature": 0.1,
+        }
     )
     
 async def check_no_results(
@@ -53,6 +68,7 @@ async def check_no_results(
         config=CrawlerRunConfig(
             cache_mode=CacheMode.BYPASS,
             session_id=session_id,
+            page_timeout=100000
         ),
     )
     
@@ -100,7 +116,8 @@ async def fetch_and_process_page(
             cache_mode=CacheMode.BYPASS,
             extraction_strategy=llm_strategy,
             session_id=session_id,
-            css_selector=css_selector, 
+            css_selector=css_selector,
+            page_timeout=100000 
         ),
     )
     
