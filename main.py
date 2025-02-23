@@ -4,7 +4,7 @@ from crawl4ai import AsyncWebCrawler
 from dotenv import load_dotenv
 
 from config import BASE_URL, CSS_SELECTOR, REQUIRED_KEYS
-from utils.data_utils import save_venue_to_csv
+from utils.data_utils import save_venue_to_csv, save_to_db
 
 from utils.scraper_utils import fetch_and_process_page, get_browser_config, get_llm_strategy
 
@@ -21,9 +21,10 @@ async def crawl_venues():
     page_number = 1
     all_venues = []
     seen_names = set()
+    maximum_Pgaes_to_scrape = 150
     
     async with AsyncWebCrawler(config=browser_config) as crawler:
-        while True:
+        while True and page_number <= maximum_Pgaes_to_scrape:
             venues, no_results_found = await fetch_and_process_page(
                 crawler,
                 page_number,
@@ -40,20 +41,20 @@ async def crawl_venues():
                 break
             
             if not venues:
-                print("No venues found on page.")
+                print("No vehicle adds found on page.")
                 break
             
             all_venues.extend(venues)
             page_number += 1
-            
             await asyncio.sleep(3)
             
         if all_venues:
-            save_venue_to_csv(all_venues, "complete_venues.csv")
-            print(f"Saved {len(all_venues)} venues to CSV.")
+            save_venue_to_csv(all_venues, "complete_add_details.csv")
+            save_to_db(all_venues)
+            print(f"Saved {len(all_venues)} vehciles to CSV.")
             
         else:
-            print("No venues found.")
+            print("No adds found.")
             
         llm_strategy.show_usage()
         
