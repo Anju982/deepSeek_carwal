@@ -21,9 +21,10 @@ async def crawl_venues():
     page_number = 1
     all_venues = []
     seen_names = set()
+    maximum_Pgaes_to_scrape = 150
     
     async with AsyncWebCrawler(config=browser_config) as crawler:
-        while True:
+        while True and page_number <= maximum_Pgaes_to_scrape:
             venues, no_results_found = await fetch_and_process_page(
                 crawler,
                 page_number,

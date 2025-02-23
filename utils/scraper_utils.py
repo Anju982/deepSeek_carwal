@@ -49,8 +49,8 @@ def get_llm_strategy() -> LLMExtractionStrategy:
             "timeout": 30,     # Request timeout in seconds
             "fallback_providers": [  # Fallback providers if primary fails
                 {
-                    "provider": "groq/deepseek-r1-distill-llama-70b",
-                    "api_token": os.getenv("groq_api_key")
+                    "provider": "gemini/gemini-pro",
+                    "api_token": os.getenv("googel_key")
                 }
             ],
             "max_tokens": 6000,
